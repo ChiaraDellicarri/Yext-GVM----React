@@ -1,0 +1,120 @@
+{
+  "$id": "GVMICC10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Roma",
+      "countryCode": "IT",
+      "line1": "Viale Alessandro Magno, 386",
+      "postalCode": "00124",
+      "region": "RM"
+    },
+    "c_baseURL": "https://www.gvmnet.it/strutture/icc-istituto-clinico-casalpalocco-roma/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_nomeStruttura": "ICC Istituto Clinico Casalpalocco",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale privato polispecialistico a Roma; al momento divenuto Centro COVID-19 con denominazione COVID 3 HUB - INMI Spallanzani Spoke - ICC Istituto Clinico Casalpalocco. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "displayCoordinate": {
+      "latitude": 41.746681,
+      "longitude": 12.348961
+    },
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/ShX29YsgwLcvK8wfhmzOKCUMtDNM-LaqtPz0RMi9txs/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/456757387698646",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/r-WGoTtXgILKgpK5GzVCHOysxQNwboavkXImtPmdCBU/200x200.jpg",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMICCIstitutoClinicoCasalpalocco",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJtb7NsYrxJRMRmTuCsGr59Z4",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390650173411",
+    "name": "GVM - ICC Istituto Clinico Casalpalocco",
+    "r_regione": "Lazio",
+    "slug": "/icc-istituto-clinico-casalpalocco",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "altro"
+  ]
+}

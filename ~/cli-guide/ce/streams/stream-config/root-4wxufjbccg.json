@@ -1,0 +1,25 @@
+{
+  "$id": "ce_root-4wxufjbccg",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "uid",
+    "meta",
+    "name",
+    "slug",
+    "dm_directoryChildrenRegione.name",
+    "dm_directoryChildrenRegione.slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_root"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "it"
+    ]
+  }
+}

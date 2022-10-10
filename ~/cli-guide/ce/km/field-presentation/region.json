@@ -1,0 +1,57 @@
+{
+  "$id": "ce_region",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_region",
+  "displayName": "Region",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "richTextDescription"
+        },
+        {
+          "id": "slug"
+        },
+        {
+          "id": "c_regionAbbreviation"
+        },
+        {
+          "id": "c_regionDisplayName"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

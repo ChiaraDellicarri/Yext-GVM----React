@@ -1,0 +1,269 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "gvm-hospital-experience-key",
+  "name": "GVM Hospital Experience",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "cities": {
+      "entityTypes": [
+        "ce_city"
+      ],
+      "name": "Cities",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faq": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQ",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "question": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "iniziative": {
+      "entityTypes": [
+        "ce_iniziativa"
+      ],
+      "name": "Iniziative",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "menu_items": {
+      "entityTypes": [
+        "ce_menuItem"
+      ],
+      "name": "Menu Items",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "menus": {
+      "entityTypes": [
+        "ce_menu"
+      ],
+      "name": "Menus",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "regioni": {
+      "entityTypes": [
+        "ce_regione"
+      ],
+      "name": "Regioni",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "regions": {
+      "entityTypes": [
+        "ce_region"
+      ],
+      "name": "Regions",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "roots": {
+      "entityTypes": [
+        "ce_root"
+      ],
+      "name": "Roots",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "sedi": {
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Sedi",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.hours": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "sites": {
+      "entityTypes": [
+        "ce_site"
+      ],
+      "name": "Sites",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "states": {
+      "entityTypes": [
+        "ce_state"
+      ],
+      "name": "States",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "strutture_sanitarie": {
+      "entityTypes": [
+        "healthcareFacility"
+      ],
+      "name": "Strutture sanitarie",
+      "savedSearchId": "1234994255",
+      "searchableFields": {
+        "address.city": {
+          "textSearch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "staticFilter": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "cities": [
+        "[[name]]"
+      ],
+      "faq": [
+        "[[name]]"
+      ],
+      "iniziative": [
+        "[[name]]"
+      ],
+      "menu_items": [
+        "[[name]]"
+      ],
+      "menus": [
+        "[[name]]"
+      ],
+      "regioni": [
+        "[[name]]"
+      ],
+      "regions": [
+        "[[name]]"
+      ],
+      "roots": [
+        "[[name]]"
+      ],
+      "sedi": [
+        "[[name]]"
+      ],
+      "sites": [
+        "[[name]]"
+      ],
+      "states": [
+        "[[name]]"
+      ],
+      "strutture_sanitarie": [
+        "[[name]]"
+      ]
+    }
+  }
+}

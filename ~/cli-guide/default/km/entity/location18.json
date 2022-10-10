@@ -1,0 +1,20 @@
+{
+  "$id": "location18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "London",
+      "countryCode": "GB",
+      "line1": "2 Great Titchfield Street",
+      "line2": "7th Floor, United Kingdom House",
+      "postalCode": "W1D 1NN"
+    },
+    "mainPhone": "+442081759990",
+    "name": "Turtlehead Tacos",
+    "slug": "location18",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": []
+}

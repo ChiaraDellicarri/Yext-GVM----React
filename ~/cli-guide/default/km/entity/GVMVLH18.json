@@ -1,0 +1,258 @@
+{
+  "$id": "GVMVLH18",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Conversano",
+      "countryCode": "IT",
+      "line1": "Via Giuseppe Lacalandra, 13",
+      "postalCode": "70014",
+      "region": "BA"
+    },
+    "c_amministratoreDelegato": "Eleonora Sansavini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/villa-lucia-hospital-conversano/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "dentista villa lucia hospital conversano bari",
+          "height": 3811,
+          "thumbnails": [
+            {
+              "height": 3811,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+              "width": 6776
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+          "width": 6776
+        },
+        "link": "https://www.dentalunit.it/Le-Dental-Unit/Villa-Lucia-Hospital",
+        "sommario": "All’interno dell’ospedale è presente una Dental Unit, la divisione odontoiatrica ospedaliera specializzata nella cura della salute orale per pazienti di tutte le età. L’equipe dentistica specializzata, partendo dalla visita odontoiatrica, esegue prestazioni giornaliere di diagnostica dentale, pedodonzia, odontoiatria conservativa ed endodontica e implantologia.",
+        "titolo": "Visita odontoiatrica"
+      }
+    ],
+    "c_datiAmministrazione_1": "**VILLA LUCIA HOSPITAL è un presidio sanitario di ANTHEA HOSPITAL S.r.l.**  \nSede legale: Via Camillo Rosalba, 35/37 – 70124 BARI  \nCodice Fiscale, Partita IVA n. iscriz. Reg. Imprese BA 03811090723.  \nSede operativa: Villa Lucia Hospital  \nvia Lacalandra, 13\\- 70014 Conversano (BA) PEC: [gvm\\-ant@legalmail.it](mailto:gvm\\-ant@legalmail.it)  \nDetermina Dirigenziale n. 366 del 27/12/201919  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A.**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: Dott.ssa Simona Tarpignati  \nTel: 0694288371  \nEmail: dpo.st@ecosafety.it  \nPEC: ecosafety@pec.it",
+    "c_descrizioneBreve": "L\u0027eco-ospedale Villa Lucia Hospital è una struttura sanitaria privata di Conversano (BA) accreditata SSN e specializzata in cardiologia e oculistica.",
+    "c_descrizioneLunga": "Villa Lucia Hospital è un ospedale privato di Conversano, in provincia di Bari, accreditato con il Servizio Sanitario Nazionale e convenzionato con casse mutue, enti e assicurazioni che offrono un servizio di assistenza sanitaria integrativa.\n\n\nLa struttura è specializzata nella cura e nella prevenzione di patologie cardiache e oculistiche. All\u0027interno dell\u0027ospedale si trova anche una Dental Unit, una divisione specialistica di odontoiatria che risponde alle esigenze della salute orale di pazienti di tutte le età.\n\n\nIl Villa Lucia Hospital di Conversano è considerato un \"eco\\-ospedale\", uno dei primi sul territorio. Il 50% della produzione di acqua calda sanitaria è ottenuta attraverso i pannelli solari e tutta la struttura è stata costruita secondo i più innovativi parametri energetici e ambientali.",
+    "c_direttoreSanitario": "Dott. Luigi Lestingi",
+    "c_elencoServiziStrutturaGVM": "* Palestra riabilitativa\n* Bar\n* Degenza riservata",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiologia\n* Chirurgia plastica, ricostruttiva ed estetica\n* Oculistica\n* Ortopedia e Traumatologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "ecg da sforzo villa lucia hospital conversano bari",
+      "height": 600,
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p/IPZ0HRe5WzzHRuLTyl_FlXosHmnOyWxPUvnLGaBoSWM/780x600.jpg",
+          "width": 780
+        },
+        {
+          "height": 476,
+          "url": "https://a.mktgcdn.com/p/IPZ0HRe5WzzHRuLTyl_FlXosHmnOyWxPUvnLGaBoSWM/619x476.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p/IPZ0HRe5WzzHRuLTyl_FlXosHmnOyWxPUvnLGaBoSWM/585x450.jpg",
+          "width": 585
+        },
+        {
+          "height": 151,
+          "url": "https://a.mktgcdn.com/p/IPZ0HRe5WzzHRuLTyl_FlXosHmnOyWxPUvnLGaBoSWM/196x151.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/IPZ0HRe5WzzHRuLTyl_FlXosHmnOyWxPUvnLGaBoSWM/780x600.jpg",
+      "width": 780
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno villa lucia hospital conversano bari",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/XwyYKgTZ8PW40Ph5v3uAIMWRbEl-V6_v-FP8ExL7U78/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/XwyYKgTZ8PW40Ph5v3uAIMWRbEl-V6_v-FP8ExL7U78/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/XwyYKgTZ8PW40Ph5v3uAIMWRbEl-V6_v-FP8ExL7U78/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/XwyYKgTZ8PW40Ph5v3uAIMWRbEl-V6_v-FP8ExL7U78/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/XwyYKgTZ8PW40Ph5v3uAIMWRbEl-V6_v-FP8ExL7U78/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali villa lucia hospital conversano bari",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/ilRlyfW7apG823tIneHTRiVmi4iZVMDdICH7kQ5TVk8/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/ilRlyfW7apG823tIneHTRiVmi4iZVMDdICH7kQ5TVk8/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/ilRlyfW7apG823tIneHTRiVmi4iZVMDdICH7kQ5TVk8/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Villa Lucia Hospital",
+    "c_postiLetto": "80",
+    "c_regione": "PUGLIA",
+    "c_regioneStruttura": [
+      "c_regione_puglia"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/villa-lucia-hospital",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/villa-lucia-hospital-conversano/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/villa-lucia-hospital",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/villa-lucia-hospital-conversano/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale a Conversano, in provincia di Bari, accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/462_G-6jBaClFbIOt-js-vUWy5btNK1Uzzk_z8d3xEA/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/120946188041541",
+    "facebookParentPageId": "1638513349751737",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJjYNPrA_IRxMRlWTfsRb1VCE",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390804080111",
+    "name": "GVM - Villa Lucia Hospital",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno villa lucia hospital conversano bari",
+          "height": 600,
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p/G1IUh8-dqQyKNJNRt3KIqa4dKE5ubnHeeb5AqdaIGaY/780x600.jpg",
+              "width": 780
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/G1IUh8-dqQyKNJNRt3KIqa4dKE5ubnHeeb5AqdaIGaY/780x600.jpg",
+          "width": 780
+        }
+      }
+    ],
+    "r_regione": "Puglia",
+    "slug": "/villa-lucia-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

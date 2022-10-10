@@ -1,0 +1,292 @@
+{
+  "$id": "GVMOC19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Cortina d\u0027Ampezzo",
+      "countryCode": "IT",
+      "line1": "Via Codivilla, 1",
+      "postalCode": "32043",
+      "region": "BL"
+    },
+    "c_amministratoreDelegato": "Massimo Rocchi",
+    "c_baseURL": "https://www.gvmnet.it/strutture/ospedale-cortina/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "check up completi ospedale cortina",
+          "height": 675,
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/1200x675.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/1200x675.jpg",
+          "width": 1200
+        },
+        "link": "https://www.gvmnet.it/strutture/ospedale-cortina/home#spec5",
+        "sommario": "I Check Up GVM sono percorsi di prevenzione completi e giornalieri personalizzati in base alle necessità dei pazienti. Tutti i controlli medici sono presi in carico da un medico tutor che, affiancato da un’equipe multidisciplinare di alta specialità, segue il programma di Check Up. Al termine del percorso di prevenzione, il medico tutor stila una minuziosa relazione clinica.",
+        "titolo": "Check Up completi"
+      },
+      {
+        "immagine": {
+          "alternateText": "prevenzione malattie cardiovascolari ospedale cortina",
+          "height": 561,
+          "thumbnails": [
+            {
+              "height": 561,
+              "url": "https://a.mktgcdn.com/p/_e8NKYh81a1Pqv5z1lT-X4uy4Wcpi_NVmTS2wIp2Tvo/800x561.jpg",
+              "width": 800
+            },
+            {
+              "height": 434,
+              "url": "https://a.mktgcdn.com/p/_e8NKYh81a1Pqv5z1lT-X4uy4Wcpi_NVmTS2wIp2Tvo/619x434.jpg",
+              "width": 619
+            },
+            {
+              "height": 421,
+              "url": "https://a.mktgcdn.com/p/_e8NKYh81a1Pqv5z1lT-X4uy4Wcpi_NVmTS2wIp2Tvo/600x421.jpg",
+              "width": 600
+            },
+            {
+              "height": 137,
+              "url": "https://a.mktgcdn.com/p/_e8NKYh81a1Pqv5z1lT-X4uy4Wcpi_NVmTS2wIp2Tvo/196x137.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/_e8NKYh81a1Pqv5z1lT-X4uy4Wcpi_NVmTS2wIp2Tvo/800x561.jpg",
+          "width": 800
+        },
+        "link": "https://www.gvmnet.it/strutture/ospedale-cortina/ambulatoriali/check-up-cuore",
+        "sommario": "I Check Up Cuore sono percorsi di prevenzione per le malattie cardiovascolari. Partendo da una visita cardiologica, vengono eseguiti una serie di esami diagnostici per identificare lo stato di salute del sistema cardiovascolare e la presenza di patologie. I percorsi di prevenzione sono adatti a pazienti di tutte le età e, in special modo, a chi presenta dei fattori di rischio.",
+        "titolo": "Prevenzione malattie cardiovascolari"
+      }
+    ],
+    "c_datiAmministrazione_1": "**GVM Cortina Srl**  \nSede legale: corso Garibaldi 11, 48022 Lugo (RA)  \nSede operativa: Via Codivilla 23, 32043 Cortina d\u0027Ampezzo (BL)  \nCap. Soc. euro 500.000,00 i.v.. Cod. Fisc. e P.IVA 02635910397  \nPEC: [gvm\\-cortina@legalmail.it](mailto:gvm\\-cortina@legalmail.it)  \nAut. San. DGR. 1438 dell\u00271/10/2019  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A.**  \nP.I.00423510395",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561  \nEmail: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "L\u0027Ospedale Cortina è un ospedale privato accreditato SSN di Cortina d\u0027Ampezzo (BL) ed è dotato di un punto attrezzato di Primo Intervento (Pronto Soccorso).",
+    "c_descrizioneLunga": "Struttura privata accreditata con il Servizio Sanitario Nazionale, l\u0027Ospedale Cortina è stato edificato negli anni \u002720 e fa parte del gruppo GVM Care \\\u0026 Research dal 2019.\n\n\nNella struttura è presente un Punto di Primo Intervento (Pronto Soccorso) attivo tutti i giorni, 24 ore su 24, con quattro letti OBI (Osservazione Breve Intensiva) e:\n\n\n* Un punto prelievi\n* La diagnostica per immagini con radiologia, mammografia TC, risonanza magnetica aperta.\n\n\nAll\u0027interno dell\u0027Ospedale Cortina sono disponibili dei pacchetti dedicati alla prevenzione e alla riabilitazione, con particolare attenzione all\u0027apparato osteoarticolare e motorio. C\u0027è una palestra interna con attrezzatura e macchinari per le principali terapie (tecar, magnetoterapia, laser e ultrasuoni).",
+    "c_direttoreSanitario": "Dott. Luigi Veranda",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiologia\n* Medicina fisica e riabilitazione\n* Ortopedia e traumatologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "ortopedia ospedale cortina",
+      "height": 647,
+      "thumbnails": [
+        {
+          "height": 647,
+          "url": "https://a.mktgcdn.com/p/Ef8X_xCIytgzRcB_rQOBftUYmBrKfMOzZ-N6fYF5KqU/790x647.jpg",
+          "width": 790
+        },
+        {
+          "height": 507,
+          "url": "https://a.mktgcdn.com/p/Ef8X_xCIytgzRcB_rQOBftUYmBrKfMOzZ-N6fYF5KqU/619x507.jpg",
+          "width": 619
+        },
+        {
+          "height": 450,
+          "url": "https://a.mktgcdn.com/p/Ef8X_xCIytgzRcB_rQOBftUYmBrKfMOzZ-N6fYF5KqU/549x450.jpg",
+          "width": 549
+        },
+        {
+          "height": 161,
+          "url": "https://a.mktgcdn.com/p/Ef8X_xCIytgzRcB_rQOBftUYmBrKfMOzZ-N6fYF5KqU/196x161.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/Ef8X_xCIytgzRcB_rQOBftUYmBrKfMOzZ-N6fYF5KqU/790x647.jpg",
+      "width": 790
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno ospedale cortina",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/RsmsFEvMTpf45lFIgcKGxP4_vvLIp9aqvNcrtWed4zo/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/RsmsFEvMTpf45lFIgcKGxP4_vvLIp9aqvNcrtWed4zo/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/RsmsFEvMTpf45lFIgcKGxP4_vvLIp9aqvNcrtWed4zo/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/RsmsFEvMTpf45lFIgcKGxP4_vvLIp9aqvNcrtWed4zo/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/RsmsFEvMTpf45lFIgcKGxP4_vvLIp9aqvNcrtWed4zo/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali ospedale cortina",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/XsnW_81EeGQYFP3vwKJNfQImYCvdAkC969VfVH0RIB8/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/XsnW_81EeGQYFP3vwKJNfQImYCvdAkC969VfVH0RIB8/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/XsnW_81EeGQYFP3vwKJNfQImYCvdAkC969VfVH0RIB8/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Ospedale Cortina",
+    "c_postiLetto": "86",
+    "c_regione": "VENETO",
+    "c_regioneStruttura": [
+      "c_regione_veneto"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/ospedale-cortina",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/ospedale-cortina/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/ospedale-cortina",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/ospedale-cortina/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276",
+      "1275"
+    ],
+    "closed": false,
+    "description": "Ospedale a Cortina d\u0027Ampezzo, in provincia di Belluno, accreditato con il Servizio Sanitario Nazionale e dotato di punto di Primo Intervento. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/nA2a5bXJ4xps0JHqwQ4j5yyVMhskV2KoYAN3qU94PkM/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/113679363682427",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/bpRFs3yDir_vcjchfpL85TUiKgtilMteQwomlvVgCgU/200x200.png",
+      "width": 200
+    },
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJ5dbWFfA1eEcRVBDnLED2O1A",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "localPhone": "+390436883355",
+    "mainPhone": "+390436883222",
+    "name": "GVM - Ospedale Cortina",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno ospedale cortina",
+          "height": 796,
+          "thumbnails": [
+            {
+              "height": 796,
+              "url": "https://a.mktgcdn.com/p/YNe5HB8MERIxeo2x-Mt-Qva_TrnoDM9SSK9HUQmgHH4/1200x796.jpg",
+              "width": 1200
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/YNe5HB8MERIxeo2x-Mt-Qva_TrnoDM9SSK9HUQmgHH4/1200x796.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "r_regione": "Veneto",
+    "slug": "/ospedale-cortina",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "$id": "GVMVS21",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Genova",
+      "countryCode": "IT",
+      "line1": "Piazza Leopardi, 18",
+      "postalCode": "16145",
+      "region": "GE"
+    },
+    "c_amministratoreDelegato": "Sandro Mazzantini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/villa-serena-genova/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_datiAmministrazione_1": "**Villa Serena S.p.a.**  \nPiazza Leopardi, 18 \\- 16145 Genova  \nPI 00262530108  \nAut. San. Provvedimento N. 49/2000 L. R. 20/99 del Comune di Genova  \nAmpliata con Provvedimento N. 117/2008 L. R. 20/99  \nPEC: [villaserenapec@pec.it](mailto:villaserenapec@pec.it)  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A.**  \nP.I.00423510395",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**  \nSIGES SRL \\- Barin Roberto  \nTelefono: 02967181 \\- Mobile: 3486576116  \nE\\-mail : roberto.barin@sigesgroup.it  \nPEC : villaserenapec@pec.it",
+    "c_descrizioneBreve": "Il Villa Serena è una struttura ospedaliera privata polispecialistica di Genova specialità nelle attività di prevenzione per neoplasie cutanee e mammarie.",
+    "c_descrizioneLunga": "Nato sulla base del modello anglosassone, il Villa Serena è un ospedale polispecialistico privato di Genova che fa parte del gruppo GVM Care \\\u0026 Research dal 2018.\n\n\nParticolarmente attenta alla diagnosi preventiva, nella struttura sono presenti:\n\n\n* Una Breast Unit per la diagnosi e il trattamento del tumore al seno\n* Un centro specialistico dedicato ai tumori cutanei\n* Attrezzature per la diagnostica per immagini con TC, risonanza magnetica articolare, ecocardiografia 2D e 3D, mammografia 2D e 3D con tomosintesi e videodermatoscopia.\n\n\nIl Villa Serena di Genova offre prestazioni ambulatoriali e chirurgiche in stretta connessione con l\u0027ICLAS di Rapallo, altra struttura ligure del gruppo GVM Care \\\u0026 Research accreditata SSN.",
+    "c_direttoreSanitario": "Dott. Antonio Giacomo Parodi",
+    "c_elencoSpecialitaStrutturaGVM": "* Dermatologia\n* Breast Center\n* Ginecologia\n* Ortopedia e traumatologia\n* Urologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "urologia villa serena genova",
+      "height": 3840,
+      "thumbnails": [
+        {
+          "height": 3840,
+          "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/5760x3840.jpg",
+          "width": 5760
+        },
+        {
+          "height": 1267,
+          "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/1900x1267.jpg",
+          "width": 1900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/XvEMHV58qK8H_Z6e0qGfxDrhvJjVFKyBGl8nVTkAG8s/5760x3840.jpg",
+      "width": 5760
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno villa serena genova",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/Xp01iwy_R3aRhpW9_j6sQaQTWNZde3px4KGexn0gHCg/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/Xp01iwy_R3aRhpW9_j6sQaQTWNZde3px4KGexn0gHCg/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/Xp01iwy_R3aRhpW9_j6sQaQTWNZde3px4KGexn0gHCg/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/Xp01iwy_R3aRhpW9_j6sQaQTWNZde3px4KGexn0gHCg/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/Xp01iwy_R3aRhpW9_j6sQaQTWNZde3px4KGexn0gHCg/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali villa serena genova",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/Y7_7vjPcljdC-Ks4y737PiCpiye0czRxdqPP3n0tZps/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/Y7_7vjPcljdC-Ks4y737PiCpiye0czRxdqPP3n0tZps/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/Y7_7vjPcljdC-Ks4y737PiCpiye0czRxdqPP3n0tZps/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Villa Serena",
+    "c_postiLetto": "60",
+    "c_regione": "LIGURIA",
+    "c_regioneStruttura": [
+      "c_regione_liguria"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/villa-serena",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/villa-serena-genova/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/villa-serena",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/villa-serena/specialitastruttura",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale privato polispecialistico a Genova. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "displayCoordinate": {
+      "latitude": 44.3977535,
+      "longitude": 8.9614726
+    },
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/XUdcQ08QWzRIsOtKxUqGN274_EGClugDak7J0cLE2lU/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/1702958383085792",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/CDlkxIAmtR-iik0r1N2mPcBLV9ujGwD8mGlRDPflow4/200x200.png",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMVillaSerena",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJ--wtsKVD0xIR-8TO7UAX3Fc",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390103535111",
+    "name": "GVM - Villa Serena",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno villa serena genova",
+          "height": 255,
+          "thumbnails": [
+            {
+              "height": 255,
+              "url": "https://a.mktgcdn.com/p/dfhGq1lQIP7ImhzlgnvoL8RJiujXDWAN7WVYN2QS7zE/800x255.jpg",
+              "width": 800
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/dfhGq1lQIP7ImhzlgnvoL8RJiujXDWAN7WVYN2QS7zE/800x255.jpg",
+          "width": 800
+        }
+      }
+    ],
+    "r_regione": "Liguria",
+    "slug": "/villa-serena-2",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "c_regionDisplayName",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Region Display Name",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "string"
+}

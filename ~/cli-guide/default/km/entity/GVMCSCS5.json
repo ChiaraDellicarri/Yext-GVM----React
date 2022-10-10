@@ -1,0 +1,446 @@
+{
+  "$id": "GVMCSCS5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Torino",
+      "countryCode": "IT",
+      "line1": "Via Villa della Regina, 19",
+      "postalCode": "10131",
+      "region": "TO"
+    },
+    "c_amministratoreDelegato": "Paola Colloraffi",
+    "c_baseURL": "https://www.gvmnet.it/strutture/clinica-santa-caterina-da-siena/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "check up completi clinica santa caterina torino",
+          "height": 532,
+          "thumbnails": [
+            {
+              "height": 532,
+              "url": "https://a.mktgcdn.com/p/xAL-4wdWRMBtFecVANUeJIpdDMOFVTMUjPOWhTyvyw8/710x532.jpg",
+              "width": 710
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p/xAL-4wdWRMBtFecVANUeJIpdDMOFVTMUjPOWhTyvyw8/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/xAL-4wdWRMBtFecVANUeJIpdDMOFVTMUjPOWhTyvyw8/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p/xAL-4wdWRMBtFecVANUeJIpdDMOFVTMUjPOWhTyvyw8/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/xAL-4wdWRMBtFecVANUeJIpdDMOFVTMUjPOWhTyvyw8/710x532.jpg",
+          "width": 710
+        },
+        "link": "https://www.gvmnet.it/strutture/clinica-santa-caterina-da-siena/home#spec5",
+        "sommario": "I Check Up GVM sono percorsi di prevenzione completi e giornalieri personalizzati in base alle necessità dei pazienti. Tutti i controlli medici sono presi in carico da un medico tutor che, affiancato da un’equipe multidisciplinare di alta specialità, segue il programma di Check Up. Al termine del percorso di prevenzione, il medico tutor stila una minuziosa relazione clinica.",
+        "titolo": "Check Up completi"
+      },
+      {
+        "immagine": {
+          "alternateText": "prevenzione malattie cardiovascolari clinica santa caterina torino",
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/9G6zFM_3dbxOlDeM0eTRR-WmS6A015_Sy7B2ZAIrrCo/700x467.jpg",
+              "width": 700
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p/9G6zFM_3dbxOlDeM0eTRR-WmS6A015_Sy7B2ZAIrrCo/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p/9G6zFM_3dbxOlDeM0eTRR-WmS6A015_Sy7B2ZAIrrCo/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p/9G6zFM_3dbxOlDeM0eTRR-WmS6A015_Sy7B2ZAIrrCo/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/9G6zFM_3dbxOlDeM0eTRR-WmS6A015_Sy7B2ZAIrrCo/700x467.jpg",
+          "width": 700
+        },
+        "link": "https://www.gvmnet.it/strutture/clinica-santa-caterina-da-siena/ambulatoriali/cardio-check-up",
+        "sommario": "I Cardio Check Up sono percorsi di prevenzione per le malattie cardiovascolari. Partendo da una visita cardiologica, vengono eseguiti una serie di esami diagnostici per identificare lo stato di salute del sistema cardiovascolare e la presenza di patologie. I percorsi di prevenzione sono adatti a pazienti di tutte le età e, in special modo, a chi presenta dei fattori di rischio.",
+        "titolo": "Prevenzione malattie cardiovascolari"
+      }
+    ],
+    "c_datiAmministrazione_1": "**CLINICA SANTA CATERINA DA SIENA SRL a socio unico**  \nSede Legale: Corso Garibaldi. 11 – 48022 LUGO (RA)  \nCodice Fiscale, partita IVA iscriz. Reg. Imprese RA 03444250405  \nPEC: [gvm\\-sancate@legalmail.it](mailto:gvm\\-sancate@legalmail.it)  \nFAX: +39 0118393361  \nAut. San. 13\\-11620 del 02/02/2004  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561 \\- Email: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "La Clinica Santa Caterina da Siena è un ospedale privato polispecialistico di Torino specializzato nelle terapie cardiache, urinarie e del sonno.",
+    "c_descrizioneLunga": "Struttura medica privata situata in una delle zone più eleganti della città di Torino, la Clinica Santa Caterina da Siena fa parte del gruppo GVM Care \\\u0026 Research dal 2010 ed è convenzionata con assicurazioni sanitarie, fondi sanitari integrativi e casse mutua.\n\n\nConsiderata un punto di riferimento per la sanità privata torinese, la casa di cura è specializzata:\n\n\n* Nel trattamento delle patologie cardiovascolari\n* Nel trattamento dell\u0027incontinenza urinaria\n* Nella risoluzione dei disturbi del sonno\n* Nel percorso di prevenzione personalizzato basato sui Check Up Long Life Formula®.\n\n\nAll\u0027interno della Clinica Santa Caterina da Siena di Torino ci sono:\n\n\n* 3 sale operatorie a flusso verticali\n* Una sala digitalizzata\n* Una sala operatoria con angiografo dedicato.\n\n\nL\u0027utilizzo di tecniche diagnostiche all\u0027avanguardia sempre meno invasive e l\u0027approccio terapeutico personalizzato contraddistinguono la struttura, insieme all\u0027attenzione costante alla dignità del paziente.",
+    "c_direttoreSanitario": "Dott. Alessandro Morteo",
+    "c_elencoServiziStrutturaGVM": "* Area Relax Long Life Formula\n* Sala Convegni",
+    "c_elencoSpecialitaStrutturaGVM": "* Chirurgia plastica, ricostruttiva ed estetica\n* Neurologia\n* Oculistica\n* Ortopedia e traumatologia\n* Otorinolaringoiatria\n* Sleep Clinic",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "tac clinica santa caterina torino",
+      "height": 466,
+      "thumbnails": [
+        {
+          "height": 466,
+          "url": "https://a.mktgcdn.com/p/S3YMmR-E20QUZxqiy9tl5T9ejNNwIweYRSTWl7gyIdY/700x466.jpg",
+          "width": 700
+        },
+        {
+          "height": 412,
+          "url": "https://a.mktgcdn.com/p/S3YMmR-E20QUZxqiy9tl5T9ejNNwIweYRSTWl7gyIdY/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 399,
+          "url": "https://a.mktgcdn.com/p/S3YMmR-E20QUZxqiy9tl5T9ejNNwIweYRSTWl7gyIdY/600x399.jpg",
+          "width": 600
+        },
+        {
+          "height": 130,
+          "url": "https://a.mktgcdn.com/p/S3YMmR-E20QUZxqiy9tl5T9ejNNwIweYRSTWl7gyIdY/196x130.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/S3YMmR-E20QUZxqiy9tl5T9ejNNwIweYRSTWl7gyIdY/700x466.jpg",
+      "width": 700
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno clinica santa caterina da siena",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/PahSolk5BV3HFO5zo6C5pUKRKl_EVdaBCNsmE7pMOl4/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/PahSolk5BV3HFO5zo6C5pUKRKl_EVdaBCNsmE7pMOl4/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/PahSolk5BV3HFO5zo6C5pUKRKl_EVdaBCNsmE7pMOl4/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/PahSolk5BV3HFO5zo6C5pUKRKl_EVdaBCNsmE7pMOl4/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/PahSolk5BV3HFO5zo6C5pUKRKl_EVdaBCNsmE7pMOl4/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali clinica santa caterina torino",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/pr4kC2JsK5RYZjNGxfobLtAKSBqnpYJXcuOcbKhAz5s/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/pr4kC2JsK5RYZjNGxfobLtAKSBqnpYJXcuOcbKhAz5s/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/pr4kC2JsK5RYZjNGxfobLtAKSBqnpYJXcuOcbKhAz5s/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Clinica Santa Caterina da Siena",
+    "c_postiLetto": "65",
+    "c_regione": "PIEMONTE",
+    "c_regioneStruttura": [
+      "c_regione_piemonte"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/clinica-santa-caterina-da-siena",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/clinica-santa-caterina-da-siena/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/clinica-santa-caterina-da-siena",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/clinica-santa-caterina-da-siena/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276",
+      "1256"
+    ],
+    "closed": false,
+    "description": "Ospedale privato polispecialistico a Torino convenzionato con Assicurazioni Sanitarie, Fondi Sanitari Integrativi e Casse Mutua. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/9KSh5peNOtaTSyfak5KlIIyM3ZE6zqxV922K85qlmu8/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/234893813307350",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/wetcISIw4QiwCRUZHUruLSMIuN-nUARAaylBp5dPb3Q/200x200.png",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMClinicaSantaCaterinadaSiena",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJb1Wj_JhyiEcRXQrHxMpR9bg",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390118199211",
+    "name": "GVM - Clinica Santa Caterina da Siena",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/cjo7AXB15maucKPkOPDi7DL1SpNRngmAaQJmwtq_T84/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/cjo7AXB15maucKPkOPDi7DL1SpNRngmAaQJmwtq_T84/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 599,
+          "thumbnails": [
+            {
+              "height": 599,
+              "url": "https://a.mktgcdn.com/p/ZHkIvcGskKyylOYYrw1sTHYMTB_iXSQnDabIXdd45hY/900x599.jpg",
+              "width": 900
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/ZHkIvcGskKyylOYYrw1sTHYMTB_iXSQnDabIXdd45hY/900x599.jpg",
+          "width": 900
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/L51m8F3bnsHZE1iFGVz5Ny0IiSTA_CQMzZAPIo7GhPc/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/L51m8F3bnsHZE1iFGVz5Ny0IiSTA_CQMzZAPIo7GhPc/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/7LmOBHwy4J1XLz2hPRqmAQ-zPlR7xAHClmy5rIRkgr0/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/7LmOBHwy4J1XLz2hPRqmAQ-zPlR7xAHClmy5rIRkgr0/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/I-7mBWkT92SGKFACxBv5seNjJd6h8Gqd04JIp9KvYic/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/I-7mBWkT92SGKFACxBv5seNjJd6h8Gqd04JIp9KvYic/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 525,
+          "thumbnails": [
+            {
+              "height": 525,
+              "url": "https://a.mktgcdn.com/p/ATYcKs7Aih0RyW8PceZIi5p8wPGEWxzswJkge7Njnuw/700x525.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/ATYcKs7Aih0RyW8PceZIi5p8wPGEWxzswJkge7Njnuw/700x525.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 466,
+          "thumbnails": [
+            {
+              "height": 466,
+              "url": "https://a.mktgcdn.com/p/FAdjVA8TlKIyom4Ea6V1XtlIIBtc2L6WSqFy_vCu3nU/700x466.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/FAdjVA8TlKIyom4Ea6V1XtlIIBtc2L6WSqFy_vCu3nU/700x466.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/_LegyImjwRbQbDmpECIRwDIOafjHarFZhdZaK218xp8/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/_LegyImjwRbQbDmpECIRwDIOafjHarFZhdZaK218xp8/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/b8GnHcLyyHS_C6SWjE9vOJ1R02eXSIBADKSYEqAjHdQ/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/b8GnHcLyyHS_C6SWjE9vOJ1R02eXSIBADKSYEqAjHdQ/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/F-awwjeyQIkze1blSgMZwophVM3405fUw184ai04VWM/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/F-awwjeyQIkze1blSgMZwophVM3405fUw184ai04VWM/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/yxkw3b2moLjbQPb6ytN4V_91kgff-4-S7OvxE1k_t4Y/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/yxkw3b2moLjbQPb6ytN4V_91kgff-4-S7OvxE1k_t4Y/700x467.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 467,
+          "thumbnails": [
+            {
+              "height": 467,
+              "url": "https://a.mktgcdn.com/p/cjo7AXB15maucKPkOPDi7DL1SpNRngmAaQJmwtq_T84/700x467.jpg",
+              "width": 700
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/cjo7AXB15maucKPkOPDi7DL1SpNRngmAaQJmwtq_T84/700x467.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "r_regione": "Piemonte",
+    "slug": "/clinica-santa-caterina-da-siena",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

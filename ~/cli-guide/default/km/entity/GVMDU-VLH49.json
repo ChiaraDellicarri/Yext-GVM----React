@@ -1,0 +1,93 @@
+{
+  "$id": "GVMDU-VLH49",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Conversano",
+      "countryCode": "IT",
+      "line1": "Via Lacalandra, 13",
+      "postalCode": "70014",
+      "region": "BA"
+    },
+    "categoryIds": [
+      "1550375",
+      "1437822"
+    ],
+    "closed": false,
+    "description": "Divisione specialistica di Odontoiatria del Villa Lucia Hospital di Conversano specializzata nella cura della salute orale per pazienti di tutte le età. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "googleAccountId": "111031181260357100829",
+    "googleEntityRelationship": {
+      "placeId": "ChIJjYNPrA_IRxMRlWTfsRb1VCE",
+      "type": "DEPARTMENT_IN"
+    },
+    "googlePlaceId": "ChIJLy3gGPnJRxMRIQfssiJK02c",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "16:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390804080462",
+    "name": "Dental Unit - Villa Lucia Hospital",
+    "r_regione": "Puglia",
+    "slug": "/dental-unit-villa-lucia-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "https://www.dentalunit.it/Le-Dental-Unit/Villa-Lucia-Hospital",
+      "preferDisplayUrl": false,
+      "url": "https://www.dentalunit.it/Le-Dental-Unit/Villa-Lucia-Hospital"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "dentalUnits"
+  ]
+}

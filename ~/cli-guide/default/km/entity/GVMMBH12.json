@@ -1,0 +1,146 @@
+{
+  "$id": "GVMMBH12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Firenze",
+      "countryCode": "IT",
+      "line1": "Via Alessandro Manzoni, 12",
+      "postalCode": "50121",
+      "region": "FI"
+    },
+    "c_baseURL": "https://www.gvmnet.it/strutture/maria-beatrice-hospital-firenze/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineStruttura": {
+      "height": 1984,
+      "thumbnails": [
+        {
+          "height": 1984,
+          "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/2949x1984.jpg",
+          "width": 2949
+        },
+        {
+          "height": 1278,
+          "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/1900x1278.jpg",
+          "width": 1900
+        },
+        {
+          "height": 416,
+          "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/619x416.jpg",
+          "width": 619
+        },
+        {
+          "height": 404,
+          "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/600x404.jpg",
+          "width": 600
+        },
+        {
+          "height": 132,
+          "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/196x132.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/6DsUVh0FkQvEpGZBgI0WNI8H9K_BPc5MR3KWxB9HRS4/2949x1984.jpg",
+      "width": 2949
+    },
+    "c_nomeStruttura": "Maria Beatrice Hospital",
+    "c_regioneStruttura": [
+      "c_regione_toscana"
+    ],
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale a Firenze accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/nz-vTRCuor4h80fMKQ6tv__YZUfECTNeG6YqM0-MGu0/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/138476062864621",
+    "facebookParentPageId": "1638513349751737",
+    "facebookVanityUrl": "GVMMariaBeatriceHospital",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJk2ZSFwxUKhMRktNeX8nZthM",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+3905523571",
+    "name": "GVM - Maria Beatrice Hospital",
+    "r_regione": "Toscana",
+    "slug": "/maria-beatrice-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "altro"
+  ]
+}

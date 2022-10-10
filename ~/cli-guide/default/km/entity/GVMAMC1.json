@@ -1,0 +1,224 @@
+{
+  "$id": "GVMAMC1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Agrigento",
+      "countryCode": "IT",
+      "line1": "Viale Leonardo Sciascia, 180",
+      "line2": "Villaggio Mosè",
+      "postalCode": "92100",
+      "region": "AG"
+    },
+    "addressHidden": false,
+    "c_amministratoreDelegato": "Giuseppe Rago",
+    "c_baseURL": "https://www.gvmnet.it/strutture/agrigento-medical-center/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_datiAmministrazione_1": "**AGRIGENTO MEDICAL CENTER Srl a socio unico**  \nSede legale: Viale Leonardo Sciascia, 180 \\- 92100 AGRIGENTO \\- Codice Fiscale, Partita IVA e iscriz. Reg. Imprese AG 02316020847.  \nAut. San. Ambulatorio specialistico di Diagnostica per immagini con annessa RMN n. 1390 del 02/11/2004.  \nAut. San. alla Chirurgia ambulatoriale n. 135623 dell\u002711/09/2020.  \nPEC: [gvm\\-amc@legalmail.it](mailto:gvm\\-amc@legalmail.it)  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561 \\- Email: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "L\u0027Agrigento Medical Center è un poliambulatorio privato sito a Villaggio Mosè (AG) dedicato a esami diagnostici e piccoli interventi ambulatoriali.",
+    "c_descrizioneLunga": "Il poliambulatorio privato Agrigento Medical Center si trova a Villaggio Mosè, frazione di Agrigento. Nato a metà degli anni \u002790, il centro è tutt\u0027ora in espansione.\n\n\nLa struttura si divide in due piani dove vengono eseguiti i principali servizi:\n\n\n* Al piano terra c\u0027è la diagnostica per immagini con attrezzature di ultima generazione per la radiologia tradizionale, TAC, risonanza magnetica ed ecografica\n* Al primo piano si trova l\u0027ambulatorio chirurgico con sala di sterilizzazione e gli ambulatori polispecialistici dedicati all\u0027ortopedia e alla neurochirurgia.\n\n\nIl poliambulatorio Agrigento Medical Center di Villaggio Mosè è il centro di comando di altre strutture del gruppo GVM Care \\\u0026 Research presenti sul territorio; infatti, fornisce informazioni per indagini diagnostiche e trattamenti terapeutici da eseguire presso altre strutture del gruppo.",
+    "c_direttoreSanitario": "Dott. Alfonso Pacifico",
+    "c_elencoSpecialitaStrutturaGVM": "* Neurochirurgia\n* Ortopedia e traumatologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "neurologia agrigento medical center",
+      "height": 866,
+      "thumbnails": [
+        {
+          "height": 866,
+          "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/1920x866.jpg",
+          "width": 1920
+        },
+        {
+          "height": 857,
+          "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/1900x857.jpg",
+          "width": 1900
+        },
+        {
+          "height": 279,
+          "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/619x279.jpg",
+          "width": 619
+        },
+        {
+          "height": 271,
+          "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/600x271.jpg",
+          "width": 600
+        },
+        {
+          "height": 88,
+          "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/196x88.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/yivpLyXadKeQMrJ5jqXjeVFBW10fetTrh1VSdF0eTn8/1920x866.jpg",
+      "width": 1920
+    },
+    "c_immagineStruttura": {
+      "alternateText": "interno agrigento medical center",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/SehieziGv-jnMyzzgj9FGUoWywLG_XK5giAnFXi-Efs/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/SehieziGv-jnMyzzgj9FGUoWywLG_XK5giAnFXi-Efs/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/SehieziGv-jnMyzzgj9FGUoWywLG_XK5giAnFXi-Efs/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/SehieziGv-jnMyzzgj9FGUoWywLG_XK5giAnFXi-Efs/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/SehieziGv-jnMyzzgj9FGUoWywLG_XK5giAnFXi-Efs/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali agrigento medical center",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/9PnUsLpcnuZ1FFB7nLAAcj7RoBePGmvB9asyRQEBroM/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/9PnUsLpcnuZ1FFB7nLAAcj7RoBePGmvB9asyRQEBroM/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/9PnUsLpcnuZ1FFB7nLAAcj7RoBePGmvB9asyRQEBroM/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Agrigento Medical Center",
+    "c_regione": "SICILIA",
+    "c_regioneStruttura": [
+      "c_regione_sicilia"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/agrigento-medical-center",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/agrigento-medical-center/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/agrigento-medical-center",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/agrigento-medical-center/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1311"
+    ],
+    "closed": false,
+    "description": "Poliambulatorio a Villaggio Mosè, frazione di Agrigento, dedicato a esami diagnostici e piccoli interventi ambulatoriali. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/axdQNr2tg_xdUHPcrIA7JycDPi7ilHk5GZSQNvPNULE/851x315.jpg",
+      "width": 851
+    },
+    "facebookOverrideCity": "Agrigento",
+    "facebookPageUrl": "https://www.facebook.com/426631891014539",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/bUmpbx39nzpY2Cm1JBdJ-IQjl4g1wkfw69c0k2Kza_E/200x200.png",
+      "width": 200
+    },
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJxY0wjF-BEBMRoSk0P7JkSrI",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390922607901",
+    "name": "GVM - Agrigento Medical Center",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "interno agrigento medical center",
+          "height": 455,
+          "thumbnails": [
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p/czwgAOti4QYeefCOfvsz0ebnKdCAAJ7WBd83p6OfHUs/1433x455.jpg",
+              "width": 1433
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/czwgAOti4QYeefCOfvsz0ebnKdCAAJ7WBd83p6OfHUs/1433x455.jpg",
+          "width": 1433
+        }
+      }
+    ],
+    "r_regione": "Sicilia",
+    "slug": "/agrigento-medical-center",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "c_contenutiInEvidenza",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Contenuti in evidenza da mostrare nella struttura",
+  "displayName": "Contenuti In Evidenza",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_inEvidenza",
+      "maxLength": 4
+    }
+  },
+  "typeId": "list"
+}

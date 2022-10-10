@@ -1,0 +1,252 @@
+{
+  "$id": "GVMRMC22",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Ravenna",
+      "countryCode": "IT",
+      "line1": "Via Le Corbusier, 41-43",
+      "postalCode": "48124",
+      "region": "RA"
+    },
+    "c_amministratoreDelegato": "Elisa Farinella",
+    "c_baseURL": "https://www.gvmnet.it/strutture/ravenna-medical-center/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "dentista ravenna medical center",
+          "height": 3811,
+          "thumbnails": [
+            {
+              "height": 3811,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+              "width": 6776
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+          "width": 6776
+        },
+        "link": "https://www.gvmnet.it/strutture/ravenna-medical-center/ambulatoriali/odontoiatria",
+        "sommario": "All’interno dell’ospedale è presente una Dental Unit, la divisione odontoiatrica ospedaliera specializzata nella cura della salute orale per pazienti di tutte le età. L’equipe dentistica specializzata, partendo dalla visita odontoiatrica, esegue prestazioni giornaliere di diagnostica dentale, pedodonzia, odontoiatria conservativa ed endodontica e implantologia.",
+        "titolo": "Visita odontoiatrica"
+      }
+    ],
+    "c_datiAmministrazione_1": "**RAVENNA MEDICAL CENTER SRL**  \nSede Legale: Via Le Corbusier, 41\\-43 \\- 48124 RAVENNA (RA)  \nCodice Fiscale e iscriz. Reg. Imprese RA 08906450153  \nPEC: gvm\\-rmc@legalmail.it  \nAut. San. Comune di Ravenna 05/12/2000  \nPT25611/1999 P.G. 56400/200  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561 \\- Email: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "Il Ravenna Medical Center è un poliambulatorio privato con day surgery a Ravenna che offre prestazioni in regime di ricovero giornaliero e ambulatoriale.",
+    "c_descrizioneLunga": "Poliambulatorio privato nato nell\u0027ottobre del 1995, il Ravenna Medical Center all\u0027inizio degli anni 2000 era già noto come uno dei primi centri attrezzati di chirurgia giornaliera.\n\n\nIl modello \"day surgery\" utilizzato all\u0027interno della struttura risponde alle esigenze dei pazienti perché garantisce una ridotta permanenza in struttura, limitazione degli accessi e gestione personalizzata dell\u0027utente.\n\n\nL\u0027offerta sanitaria del Ravenna Medical Center include 11 studi medici attrezzati per le diverse attività specialistiche, tra cui:\n\n\n* Un servizio di odontoiatria, attrezzato con diagnostica radiologica\n* Un centro di fisiokinesiterapia e riabilitazione, con palestra completa di spogliatoi, bagni e docce e delle più moderne attrezzature per il trattamento delle patologie muscoloscheletriche e per il recupero funzionale post\\-traumatico e post\\-chirurgico\n* Una sala operatoria per gli interventi chirurgici in regime di day\\-surgery con aree dedicate pre e post\\-chirurgiche\n* 3 studi di diagnostica dotati di ecografi di ultima generazione e cicloergometro per prova da sforzo\n* Una sala radiologica con risonanza magnetica S\\-Scan aperta e diagnostica delle arcate dentali e del cranio a scopo ortodontico.",
+    "c_direttoreSanitario": "Dott. Muzi Antongiulio",
+    "c_elencoServiziStrutturaGVM": "* Centro di Fisiokinesiterapia e riabilitazione",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiochirurgia Clinica e Diagnostica\n* Chirurgia Plastica, Ricostrutiva ed Estetica\n* Gastroenterologia ed Endoscopia Digestiva\n* Neurologia\n* Ortopedia e Traumatologia\n* Otorinolaringoiatria",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "visita medica ravenna medical center",
+      "height": 600,
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p/xOUF53tW20eFC7iPlZTvWLANC0v9UflXLHSwUS65NUw/900x600.jpg",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/xOUF53tW20eFC7iPlZTvWLANC0v9UflXLHSwUS65NUw/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/xOUF53tW20eFC7iPlZTvWLANC0v9UflXLHSwUS65NUw/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/xOUF53tW20eFC7iPlZTvWLANC0v9UflXLHSwUS65NUw/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/xOUF53tW20eFC7iPlZTvWLANC0v9UflXLHSwUS65NUw/900x600.jpg",
+      "width": 900
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno ravenna medical center",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/InlqHu3AsKib5azMbARWw4ZUllfx4Dwmcjod7hKAJho/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/InlqHu3AsKib5azMbARWw4ZUllfx4Dwmcjod7hKAJho/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/InlqHu3AsKib5azMbARWw4ZUllfx4Dwmcjod7hKAJho/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/InlqHu3AsKib5azMbARWw4ZUllfx4Dwmcjod7hKAJho/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/InlqHu3AsKib5azMbARWw4ZUllfx4Dwmcjod7hKAJho/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali ravenna medical center",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/GYdOdYJwKXUDdFBJFB_BeKGw7m9p5kIrGOmmnDGkSX0/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/GYdOdYJwKXUDdFBJFB_BeKGw7m9p5kIrGOmmnDGkSX0/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/GYdOdYJwKXUDdFBJFB_BeKGw7m9p5kIrGOmmnDGkSX0/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Ravenna Medical Center",
+    "c_regione": "EMILIA_ROMAGNA",
+    "c_regioneStruttura": [
+      "c_regione_emilia_romagna"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/ravenna-medical-center",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/ravenna-medical-center/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/ravenna-medical-center",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/ravenna-medical-center/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1311"
+    ],
+    "closed": false,
+    "description": "Poliambulatorio privato con Day Surgery a Ravenna convenzionato con Assicurazioni Sanitarie, Fondi Sanitari Integrativi e Casse Mutua. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/tsaAoUceseP07-4JdqzxBqriWa5prdVvZtE-jRRF25c/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/825193467574185",
+    "facebookVanityUrl": "GVM.RavennaMedicalCenter",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJC7P7qjb5fUcRyYuYHNhYkMc",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390544407077",
+    "name": "GVM - Ravenna Medical Center",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno ravenna medical center",
+          "height": 650,
+          "thumbnails": [
+            {
+              "height": 650,
+              "url": "https://a.mktgcdn.com/p/gPQOz0-mNdVmFWXe6ar25J_uPHn0e6Wl0hDoPf7kXPc/900x650.jpg",
+              "width": 900
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/gPQOz0-mNdVmFWXe6ar25J_uPHn0e6Wl0hDoPf7kXPc/900x650.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "r_regione": "Emilia Romagna",
+    "slug": "/ravenna-medical-center",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

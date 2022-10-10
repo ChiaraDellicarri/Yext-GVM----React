@@ -1,0 +1,30 @@
+{
+  "$id": "ce_regione-vxkmnvkvic",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "name",
+    "slug",
+    "c_regioneStruttura.c_nomeStruttura",
+    "c_regioneStruttura.name",
+    "c_regioneStruttura.id",
+    "c_regioneStruttura.slug",
+    "c_regioneStruttura.address",
+    "c_regioneStruttura.c_immagineStruttura",
+    "meta.locale",
+    "meta.entityType",
+    "uid"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_regione"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "it"
+    ]
+  }
+}

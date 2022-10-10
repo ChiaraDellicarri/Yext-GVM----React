@@ -1,0 +1,259 @@
+{
+  "$id": "GVMDH7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Taranto",
+      "countryCode": "IT",
+      "line1": "Viale Magna Grecia, 62",
+      "postalCode": "74121",
+      "region": "TA"
+    },
+    "c_amministratoreDelegato": "Eleonora Sansavini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/d-amore-hospital-taranto/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "check up completo d\u0027amore hospital taranto",
+          "height": 675,
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/1200x675.jpg",
+              "width": 1200
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/nPUkH1tgaOPvfWJ9h_nA8BQsratsx6WqBvKtuYhuOnM/1200x675.jpg",
+          "width": 1200
+        },
+        "link": "https://www.gvmnet.it/strutture/d-amore-hospital-taranto/home#spec5",
+        "sommario": "I Check Up GVM sono percorsi di prevenzione completi e giornalieri personalizzati in base alle necessità dei pazienti. Tutti i controlli medici sono presi in carico da un medico tutor che, affiancato da un’equipe multidisciplinare di alta specialità, segue il programma di Check Up. Al termine del percorso di prevenzione, il medico tutor stila una minuziosa relazione clinica.",
+        "titolo": "Check Up Completi"
+      }
+    ],
+    "c_datiAmministrazione_1": "**CITTA\u0027 di LECCE HOSPITAL GVM Care \\\u0026 Research Srl**  \nSede Legale: Prov.le per Arnesano Km 4, 73100 Lecce (LE) \\- Puglia  \nCap. Soc. 2.550.000,00 \\- Cod. Fisc., P.IVA e n.iscriz. Reg. Imprese 01367410394 \\- R.E.A. LE 216940  \nPEC: [gvm\\-dam@legalmail.it](mailto:gvm\\-dam@legalmail.it)  \nAut. San. n. 6 del 01 febbraio 1999  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: Dott.ssa Simona Tarpignati  \nTel: 0694288371 \\- Email: dpo.st@ecosafety.it  \nPEC: ecosafety@pec.it",
+    "c_descrizioneBreve": "Il D\u0027Amore Hospital è un ospedale privato di Taranto accreditato SSN. É  un punto di riferimento regionale per la chirurgia generale e l\u0027ortopedia.",
+    "c_descrizioneLunga": "Sito nel centro della città di Taranto, il D\u0027Amore Hospital è un ospedale polispecialistico accreditato con il Servizio Sanitario Nazionale che offre prestazioni sia in regime ambulatoriale che di ricovero.\n\n\nGrazie all\u0027utilizzo di tecnologie all\u0027avanguardia e alla strumentazione diagnostica di ultima generazione, il D\u0027Amore Hospital di Taranto è specializzato:\n\n\n* Nel trattamento delle lesioni articolari;\n* Nell\u0027utilizzo di tecniche innovative e sistemi robotici per i trattamenti chirurgici.\n\n\nNella struttura è possibile seguire dei programmi di prevenzione personalizzati volti alla diagnosi e al trattamento di disfunzioni o patologie che interessano reni, fegato o tiroide.",
+    "c_direttoreSanitario": "Dott.ssa Stefania Donno",
+    "c_elencoServiziStrutturaGVM": "* Area degenza riservata\n* Bar Ristorante e Mini\\-market\n* Palestra riabilitazione\n* Sanitaria GVM",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiologia\n* Gastroenterologia\n* Ginecologia\n* Proctologia\n* Ortopedia e Traumatologia\n* Senologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "tac d\u0027amore hospital taranto",
+      "height": 600,
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p/pOIPs_1pnGapJrSOcor-e0OSIElHkLA9sKB5rm1CA7k/900x600.jpg",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/pOIPs_1pnGapJrSOcor-e0OSIElHkLA9sKB5rm1CA7k/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/pOIPs_1pnGapJrSOcor-e0OSIElHkLA9sKB5rm1CA7k/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/pOIPs_1pnGapJrSOcor-e0OSIElHkLA9sKB5rm1CA7k/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/pOIPs_1pnGapJrSOcor-e0OSIElHkLA9sKB5rm1CA7k/900x600.jpg",
+      "width": 900
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno d\u0027amore hospital taranto",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/-YGGOnMxU7di6_DASdkJWp1qL2Kgj_9mr13Ckeds3Ew/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/-YGGOnMxU7di6_DASdkJWp1qL2Kgj_9mr13Ckeds3Ew/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/-YGGOnMxU7di6_DASdkJWp1qL2Kgj_9mr13Ckeds3Ew/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/-YGGOnMxU7di6_DASdkJWp1qL2Kgj_9mr13Ckeds3Ew/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/-YGGOnMxU7di6_DASdkJWp1qL2Kgj_9mr13Ckeds3Ew/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali d\u0027amore hospital taranto",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/dZtAAI_9BKPuXN30DeKroARNR9kWc6d_uI2753nLQWk/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/dZtAAI_9BKPuXN30DeKroARNR9kWc6d_uI2753nLQWk/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/dZtAAI_9BKPuXN30DeKroARNR9kWc6d_uI2753nLQWk/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "D\u0027Amore Hospital",
+    "c_postiLetto": "50",
+    "c_regione": "PUGLIA",
+    "c_regioneStruttura": [
+      "c_regione_puglia"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/d-amore-hospital",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/d-amore-hospital-taranto/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/d-amore-hospital",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/d-amore-hospital-taranto/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale a Taranto accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/obQSL-kGq-jAahCePMWnCJKV-RQTTBeQcf8nbEvWUvs/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/420023334698558",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/233LT3Rz9MVNCCWimcdaUzxrIuoQPH02mVLfQn9LW0c/200x200.png",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMDamoreHospital",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJjfFP_LgCRxMR_AudK2hdq6g",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390997704111",
+    "name": "GVM - D\u0027Amore Hospital",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno d\u0027amore hospital taranto",
+          "height": 455,
+          "thumbnails": [
+            {
+              "height": 455,
+              "url": "https://a.mktgcdn.com/p/CokkSE89zBwU-j1fP8GvC3GxtEK9eO-YmGiz8Swf_TQ/1433x455.jpg",
+              "width": 1433
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/CokkSE89zBwU-j1fP8GvC3GxtEK9eO-YmGiz8Swf_TQ/1433x455.jpg",
+          "width": 1433
+        }
+      }
+    ],
+    "r_regione": "Puglia",
+    "slug": "/d-amore-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

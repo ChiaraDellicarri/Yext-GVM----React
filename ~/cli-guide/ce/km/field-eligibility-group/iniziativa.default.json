@@ -1,0 +1,14 @@
+{
+  "$id": "ce_iniziativa.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Iniziativa-default",
+  "entityType": "ce_iniziativa",
+  "fields": [
+    "c_baseURL",
+    "c_descrizioneBreve",
+    "c_struttureCorrelate",
+    "primaryPhoto",
+    "slug"
+  ],
+  "required": []
+}

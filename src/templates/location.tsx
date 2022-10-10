@@ -33,7 +33,7 @@ import "../index.css";
  */
 export const config: TemplateConfig = {
   stream: {
-    $id: "my-stream-id-1",
+    $id: "locations",
     // Specifies the exact data that each generated document will contain. This data is passed in
     // directly as props to the default exported function.
     fields: [
@@ -46,16 +46,16 @@ export const config: TemplateConfig = {
       "description",
       "hours",
       "slug",
-      "geocodedCoordinate",
-      "services",
+      "geocodedCoordinate"
     ],
     // Defines the scope of entities that qualify for this stream.
     filter: {
-      entityTypes: ["location"],
+        entityTypes: ["healthcareFacility"],
+        savedFilterIds: ["1234994255"]
     },
     // The entity language profiles that documents will be generated for.
     localization: {
-      locales: ["en"],
+      locales: ["it"],
       primary: false,
     },
   },
@@ -107,10 +107,28 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({
           name: "description",
           content: document.description,
         },
-      },
+    },
+    {
+        type: "meta",
+        attributes: {
+            name: "author",
+            content: "Gruppo Villa Maria",
+        },
+     },
+
     ],
   };
 };
+/*
+const Index: Template<TemplateRenderProps> = ({ document }) => {
+    const { _site } = document;
+
+    return (
+        <>
+            <div>{_site.name}</div>
+        </>
+    );
+};*/
 
 /**
  * This is the main template. It can have any name as long as it's the default export.

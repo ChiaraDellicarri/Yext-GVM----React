@@ -1,0 +1,39 @@
+{
+  "$id": "c_ospedali",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_header": [
+      {
+        "label": "test",
+        "uRL": "/testurl"
+      }
+    ],
+    "logo": {
+      "description": "logo gvm",
+      "image": {
+        "alternateText": "logo gvm",
+        "height": 214,
+        "sourceUrl": "https://www.gvmnet.it/App_Themes/GVMNet/images/gruppovillamaria_logo.png",
+        "thumbnails": [
+          {
+            "height": 214,
+            "url": "https://a.mktgcdn.com/p/OAU6oeHDlSzjfeI0BDssODMyrNaGprUE2nM8yNgi8Bs/214x214.png",
+            "width": 214
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/OAU6oeHDlSzjfeI0BDssODMyrNaGprUE2nM8yNgi8Bs/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/OAU6oeHDlSzjfeI0BDssODMyrNaGprUE2nM8yNgi8Bs/214x214.png",
+        "width": 214
+      }
+    },
+    "name": "Ospedali"
+  },
+  "entityType": "ce_site",
+  "folder": "yext/root",
+  "labels": []
+}

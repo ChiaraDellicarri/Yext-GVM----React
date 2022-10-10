@@ -1,0 +1,16 @@
+{
+  "$id": "c_regione_sicilia",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_regioneStruttura": [
+      "GVMAMC1",
+      "GVMMEH14"
+    ],
+    "name": "Sicilia",
+    "slug": "sicilia"
+  },
+  "entityType": "ce_regione",
+  "folder": "yext/root",
+  "labels": []
+}

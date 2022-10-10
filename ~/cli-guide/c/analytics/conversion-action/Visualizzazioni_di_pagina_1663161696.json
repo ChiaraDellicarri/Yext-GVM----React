@@ -1,0 +1,25 @@
+{
+  "$id": "c_Visualizzazioni_di_pagina_1663161696",
+  "$schema": "https://schema.yext.com/config/analytics/conversion-action/v2",
+  "conversionName": "Visualizzazioni di pagina",
+  "conversionType": "PAGE_VIEW",
+  "conversionValueType": "NONE",
+  "conversionValueAmount": 0.0,
+  "conversionTerm": {
+    "startDate": "2022-09-14"
+  },
+  "conversionTrigger": {
+    "clickTriggers": [
+      {
+        "clickType": "CALL_TO_ACTION",
+        "media": [
+          {
+            "mediumType": "ALL_MEDIUM_TYPES"
+          }
+        ]
+      }
+    ],
+    "completionRate": 100.0
+  },
+  "enabled": true
+}

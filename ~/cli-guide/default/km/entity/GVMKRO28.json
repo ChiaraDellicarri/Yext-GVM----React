@@ -1,0 +1,88 @@
+{
+  "$id": "GVMKRO28",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Cotignola",
+      "countryCode": "IT",
+      "line1": "Via Vecchia Corriera, 11",
+      "postalCode": "48033",
+      "region": "RA"
+    },
+    "categoryIds": [
+      "1550375",
+      "1343"
+    ],
+    "closed": false,
+    "description": "Azienda a Cotignola, in provincia di Ravenna, specializzata nella fornitura di servizi integrati per la Sanità Pubblica e Privata. Per maggiori informazioni visita il sito web.",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJeRhQaVQdfkcRKyYJ7DSmtz0",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "08:30"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+39054579111",
+    "name": "Kronosan S.r.l.",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "location",
+  "labels": [
+    "altro"
+  ]
+}

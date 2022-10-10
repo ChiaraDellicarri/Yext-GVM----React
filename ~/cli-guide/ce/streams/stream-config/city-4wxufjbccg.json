@@ -1,0 +1,33 @@
+{
+  "$id": "ce_city-4wxufjbccg",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "uid",
+    "meta",
+    "name",
+    "slug",
+    "dm_directoryParents.name",
+    "dm_directoryParents.slug",
+    "dm_directoryParents.meta.entityType",
+    "dm_directoryParents.c_addressRegionDisplayName",
+    "dm_directoryChildren.name",
+    "dm_directoryChildren.address",
+    "dm_directoryChildren.mainPhone",
+    "dm_directoryChildren.slug",
+    "dm_directoryParentRegione.name",
+    "dm_directoryParentRegione.slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_city"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "it"
+    ]
+  }
+}

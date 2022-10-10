@@ -1,0 +1,19 @@
+{
+  "$id": "location20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Milan",
+      "countryCode": "IT",
+      "line1": "Bastioni di Porta Nuova",
+      "line2": "21",
+      "postalCode": "20121"
+    },
+    "name": "Turtlehead Tacos (Milan)",
+    "slug": "location20",
+    "timezone": "Europe/Rome"
+  },
+  "entityType": "location",
+  "labels": []
+}

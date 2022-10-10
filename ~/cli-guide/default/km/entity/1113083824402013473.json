@@ -1,0 +1,45 @@
+{
+  "$id": "1113083824402013473",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_baseURL": "https://www.gvmnet.it",
+    "c_descrizioneBreve": "Testo di prova descrizione breve testo di prova descrizione breve testo di prova descrizione breve testo di prova descrizione breve",
+    "c_struttureCorrelate": [
+      "GVMMTH16"
+    ],
+    "name": "Giornate della salute",
+    "primaryPhoto": {
+      "image": {
+        "height": 676,
+        "thumbnails": [
+          {
+            "height": 676,
+            "url": "https://a.mktgcdn.com/p/SOickSjDg8BAxAP3K_Q9N_xnEaPDoj3ZInX6bAtVLfs/1200x676.jpg",
+            "width": 1200
+          },
+          {
+            "height": 349,
+            "url": "https://a.mktgcdn.com/p/SOickSjDg8BAxAP3K_Q9N_xnEaPDoj3ZInX6bAtVLfs/619x349.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "https://a.mktgcdn.com/p/SOickSjDg8BAxAP3K_Q9N_xnEaPDoj3ZInX6bAtVLfs/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "https://a.mktgcdn.com/p/SOickSjDg8BAxAP3K_Q9N_xnEaPDoj3ZInX6bAtVLfs/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/SOickSjDg8BAxAP3K_Q9N_xnEaPDoj3ZInX6bAtVLfs/1200x676.jpg",
+        "width": 1200
+      }
+    },
+    "slug": "giornate-della-salute"
+  },
+  "entityType": "ce_iniziativa",
+  "labels": []
+}

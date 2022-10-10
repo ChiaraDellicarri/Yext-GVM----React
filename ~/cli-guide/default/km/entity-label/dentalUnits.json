@@ -1,0 +1,5 @@
+{
+  "$id": "dentalUnits",
+  "$schema": "https://schema.yext.com/config/km/entity-label/v1",
+  "name": "Dental Units"
+}

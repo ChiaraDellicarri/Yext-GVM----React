@@ -1,0 +1,71 @@
+{
+  "$id": "locations-mx5w4jpnpz",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "uid",
+    "meta",
+    "name",
+    "c_nomeStruttura",
+    "address",
+    "c_regione",
+    "mainPhone",
+    "description",
+    "c_descrizioneLunga",
+    "hours",
+    "photoGallery",
+    "slug",
+    "c_immagineStruttura",
+    "c_immagineSpecialita",
+    "c_immagine_cartina",
+    "c_descrizioneBreve",
+    "geocodedCoordinate",
+    "services",
+    "c_baseURL",
+    "c_urlPrenotazione",
+    "c_urlContatti",
+    "c_urlOrari",
+    "websiteUrl",
+    "neighborhood",
+    "paymentOptions",
+    "primaryPhoto",
+    "c_iniziativeCorrelate.primaryPhoto",
+    "c_iniziativeCorrelate.c_descrizioneBreve",
+    "c_iniziativeCorrelate.c_baseURL",
+    "c_iniziativeCorrelate.slug",
+    "c_iniziativeCorrelate.name",
+    "c_listaSpecialità",
+    "c_contenutiInEvidenza",
+    "c_direttoreSanitario",
+    "c_amministratoreDelegato",
+    "c_postiLetto",
+    "c_datiAmministrazione_1",
+    "c_datiAmministrazione_2",
+    "c_elencoSpecialitaStrutturaGVM",
+    "c_elencoServiziStrutturaGVM",
+    "c_urlTutteLeSpecialita",
+    "dm_directoryParents",
+    "c_relazioneRegioneStruttura.name",
+    "c_relazioneRegioneStruttura.slug"
+  ],
+  "filter": {
+    "entityTypes": [
+      "healthcareFacility"
+    ],
+    "savedFilterIds": [
+      "1234994255"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "it"
+    ]
+  },
+  "transform": {
+    "replaceOptionValuesWithDisplayNames": [
+      "c_regione"
+    ]
+  }
+}

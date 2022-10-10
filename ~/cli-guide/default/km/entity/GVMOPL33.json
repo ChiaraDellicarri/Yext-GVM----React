@@ -1,0 +1,111 @@
+{
+  "$id": "GVMOPL33",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Torino",
+      "countryCode": "IT",
+      "line1": "Via Villa della Regina, 21",
+      "postalCode": "10131",
+      "region": "TO"
+    },
+    "categoryIds": [
+      "1550375",
+      "1037"
+    ],
+    "closed": false,
+    "description": "Residenza Sanitaria Assistenziale per anziani parzialmente autosufficienti o non autosufficienti con assistenza sanitaria infermieristica attiva tutti i giorni, 24 ore su 24. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 1080,
+      "url": "http://a.mktgcdn.com/p/Mmh0VUSnOAZ4sVrVjAdeUU5yzVM3XPoELw9WcjGmAZk/1920x1080.jpg",
+      "width": 1920
+    },
+    "facebookPageUrl": "https://www.facebook.com/113287322088865",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/IpZaRFTJ6X81Y8zs23tuvgD7i6wtGHozakaOCEQY9Qo/200x200.jpg",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMOperaPiaLotteri",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJjflX-JhyiEcR3A69Uvi67Kc",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "15:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "18:30",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390118906211",
+    "name": "GVM - Opera Pia Lotteri",
+    "slug": "/opera-pia-lotteri",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "location",
+  "labels": [
+    "altro"
+  ]
+}

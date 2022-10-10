@@ -1,0 +1,292 @@
+{
+  "$id": "GVMPFMC20",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Forlì",
+      "countryCode": "IT",
+      "line1": "Via Punta di Ferro, 2/c",
+      "postalCode": "47122",
+      "region": "FC"
+    },
+    "c_amministratoreDelegato": "Lorenzo Venturini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/primus-forli-medical-center/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "check up completi primus forlì medical center",
+          "height": 600,
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p/eaanarsZ83oM6fzKCxP6q4iY1vJf0zWvy9_1FZP8RCc/800x600.jpg",
+              "width": 800
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p/eaanarsZ83oM6fzKCxP6q4iY1vJf0zWvy9_1FZP8RCc/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p/eaanarsZ83oM6fzKCxP6q4iY1vJf0zWvy9_1FZP8RCc/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p/eaanarsZ83oM6fzKCxP6q4iY1vJf0zWvy9_1FZP8RCc/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/eaanarsZ83oM6fzKCxP6q4iY1vJf0zWvy9_1FZP8RCc/800x600.jpg",
+          "width": 800
+        },
+        "link": "https://www.gvmnet.it/strutture/primus-forli-medical-center/home#spec5",
+        "sommario": "I Check Up GVM sono percorsi di prevenzione completi e giornalieri personalizzati in base alle necessità dei pazienti. Tutti i controlli medici sono presi in carico da un medico tutor che, affiancato da un’equipe multidisciplinare di alta specialità, segue il programma di Check Up. Al termine del percorso di prevenzione, il medico tutor stila una minuziosa relazione clinica.",
+        "titolo": "Check Up Completi"
+      },
+      {
+        "immagine": {
+          "height": 3811,
+          "thumbnails": [
+            {
+              "height": 3811,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+              "width": 6776
+            },
+            {
+              "height": 1069,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/BWk9RJyA33B_yEFFNv19tzdxcB78j-UQFFy4H55gOjY/6776x3811.jpg",
+          "width": 6776
+        },
+        "link": "https://www.gvmnet.it/strutture/primus-forli-medical-center/day-surgery/odontoiatria",
+        "sommario": "All’interno dell’ospedale è presente una Dental Unit, la divisione odontoiatrica ospedaliera specializzata nella cura della salute orale per pazienti di tutte le età. L’equipe dentistica specializzata, partendo dalla visita odontoiatrica, esegue prestazioni giornaliere di diagnostica dentale, pedodonzia, odontoiatria conservativa ed endodontica e implantologia.",
+        "titolo": "Visita odontoiatrica"
+      }
+    ],
+    "c_datiAmministrazione_1": "**Primus Forlì Medical Center** **SRL**  \nVia Punta di Ferro, 2 \\- 47122 FORLI\u0027 (FC) \\- Palazzo SME  \nNumero REA FO \\- 286207  \nCodice fiscale 01969561206 \\- P.IVA 03111480400  \nPEC: [gvm\\-pfmc@legalmail.it](mailto:gvm\\-pfmc@legalmail.it)  \nAut. San. Atto n. 588 del 2000  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**  \nP.IVA 00423510395",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561  \nEmail: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "Il Primus Forlì Medical Center è un poliambulatorio privato con day surgery a Forlì che offre prestazioni in regime di ricovero giornaliero e ambulatoriale.",
+    "c_descrizioneLunga": "Poliambulatorio privato che fa parte del gruppo GVM Care \\\u0026 Research dal 2000, il Primus Forlì Medical Center è convenzionato con assicurazioni sanitarie, fondi sanitari integrativi e casse mutua. Con ambienti funzionali, confortevoli e climatizzati, la struttura si sviluppa su quattro piani per un totale di 2.000 metri quadri.\n\n\nAll\u0027interno del poliambulatorio è presente un centro per la diagnostica per immagini con:\n\n\n* Sala radiologica (diagnostica osteo\\-articolare, toraco\\-addominale e ortopantomografia)\n* Tomografia computerizzata (TAC)\n* Risonanza magnetica a cielo aperto per esami anche in ortostatismo (in piedi) e in dinamica.\n\n\nNel Primus Forlì Medical Center ci sono aree dedicate alla diverse specialità mediche, tra cui:\n\n\n* 22 ambulatori medici completamente attrezzati per le diverse attività specialistiche\n* 2 studi dentistici dotati di sistemi anticontaminazione dei circuiti aria\\-acqua\n* 2 studi di diagnostica cardiologica con ecografo di ultima generazione e cicloergometro con prova da sforzo.",
+    "c_direttoreSanitario": "Dott. Castaldini Nicola",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiologia\n* Dermatologia\n* Ginecologia\n* Urologia\n* Fisiatria",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "Tac primus forlì medical center",
+      "height": 600,
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p/sMi0cvrrydykFDpX9Ch3LMLU3hmwvC0mIT0aT9JFQ4A/900x600.jpg",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/sMi0cvrrydykFDpX9Ch3LMLU3hmwvC0mIT0aT9JFQ4A/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/sMi0cvrrydykFDpX9Ch3LMLU3hmwvC0mIT0aT9JFQ4A/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/sMi0cvrrydykFDpX9Ch3LMLU3hmwvC0mIT0aT9JFQ4A/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/sMi0cvrrydykFDpX9Ch3LMLU3hmwvC0mIT0aT9JFQ4A/900x600.jpg",
+      "width": 900
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno primus forlì medical center",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/zhW4tBd2TrRP24dUmGJiiUaOg68t14R0-5PEDqks_ho/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/zhW4tBd2TrRP24dUmGJiiUaOg68t14R0-5PEDqks_ho/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/zhW4tBd2TrRP24dUmGJiiUaOg68t14R0-5PEDqks_ho/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/zhW4tBd2TrRP24dUmGJiiUaOg68t14R0-5PEDqks_ho/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/zhW4tBd2TrRP24dUmGJiiUaOg68t14R0-5PEDqks_ho/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali primus forlì medical center",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/1gFs6DzmS5pzLksYEnAaVK2iZ9Ecw8693yOjrmndJ-k/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/1gFs6DzmS5pzLksYEnAaVK2iZ9Ecw8693yOjrmndJ-k/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/1gFs6DzmS5pzLksYEnAaVK2iZ9Ecw8693yOjrmndJ-k/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Primus Forlì Medical Center",
+    "c_regione": "EMILIA_ROMAGNA",
+    "c_regioneStruttura": [
+      "c_regione_emilia_romagna"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/primus-forli-medical-center",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/primus-forli-medical-center/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/primus-forli-medical-center",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/primus-forli-medical-center/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1311"
+    ],
+    "closed": false,
+    "description": "Poliambulatorio privato con Day Surgery a Forlì convenzionato con Assicurazioni Sanitarie, Fondi Sanitari Integrativi e Casse Mutua. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "displayCoordinate": {
+      "latitude": 44.2408453,
+      "longitude": 12.0769147
+    },
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/f9LgfxZPzRQ_-NlZoWZIgEBR0cU4CHAdWIixmbKFoy8/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/174076822652771",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/6Ya4Q3PWyMq8f-UwaEIq0NI0t2pUpH4efFg205zgQH8/200x200.jpg",
+      "width": 200
+    },
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJIV2qIimoLBMR-YqNDLWTqmQ",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "20:00",
+            "start": "08:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390543804311",
+    "name": "GVM - Primus Forlì Medical Center",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno primus forlì medical center",
+          "height": 600,
+          "thumbnails": [
+            {
+              "height": 600,
+              "url": "https://a.mktgcdn.com/p/2utX_ZrYKMz0dNXbXW0m203do2-6hiVzmLVRayF43pA/900x600.jpg",
+              "width": 900
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/2utX_ZrYKMz0dNXbXW0m203do2-6hiVzmLVRayF43pA/900x600.jpg",
+          "width": 900
+        }
+      }
+    ],
+    "r_regione": "Emilia Romagna",
+    "slug": "/primus-forli-medical-center",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

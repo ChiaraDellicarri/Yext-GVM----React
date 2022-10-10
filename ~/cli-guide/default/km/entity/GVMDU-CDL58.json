@@ -1,0 +1,88 @@
+{
+  "$id": "GVMDU-CDL58",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Lecce",
+      "countryCode": "IT",
+      "line1": "Via Provinciale per Arnesano, Km 4",
+      "postalCode": "73100",
+      "region": "LE"
+    },
+    "categoryIds": [
+      "1550375",
+      "1437822"
+    ],
+    "closed": false,
+    "description": "Divisione specialistica di Odontoiatria del Città di Lecce Hospital specializzata nella cura della salute orale per pazienti di tutte le età. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "googleAccountId": "111031181260357100829",
+    "googleEntityRelationship": {
+      "placeId": "ChIJI1EYLSgpRBMRuucNgbX4exM",
+      "type": "DEPARTMENT_IN"
+    },
+    "googlePlaceId": "ChIJQ3I4jPgpRBMRTkS5zSR6tQo",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "14:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390832229478",
+    "name": "Dental Unit - Città di Lecce Hospital",
+    "r_regione": "Puglia",
+    "slug": "/dental-unit-citta-di-lecce-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "https://www.dentalunit.it/Le-Dental-Unit/Citta-di-Lecce-Hospital",
+      "preferDisplayUrl": false,
+      "url": "https://www.dentalunit.it/Le-Dental-Unit/Citta-di-Lecce-Hospital"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "dentalUnits"
+  ]
+}

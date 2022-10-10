@@ -1,0 +1,18 @@
+{
+  "$id": "c_regioneStruttura",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Regione - Struttura",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "type": "TWO_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "tranquil-object-hesitant-81a6f",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Ospedali GVM - React",
+  "repoConfig": "engraving-bullhorn-unexposed-172ed",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "$id": "GVMVTH26",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Bologna",
+      "countryCode": "IT",
+      "line1": "Viale Quirico Filopanti, 12",
+      "postalCode": "40126",
+      "region": "BO"
+    },
+    "c_amministratoreDelegato": "Lorenzo Venturini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/villa-torri-hospital-bologna/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_contenutiInEvidenza": [
+      {
+        "immagine": {
+          "alternateText": "prevenzione malattie cardiovascolari villa torri hospital bologna",
+          "height": 700,
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "https://a.mktgcdn.com/p/J4TDk09gKIihamBYcV79lOSP0-MZOuDd_bSjU-KCfes/1050x700.jpg",
+              "width": 1050
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p/J4TDk09gKIihamBYcV79lOSP0-MZOuDd_bSjU-KCfes/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p/J4TDk09gKIihamBYcV79lOSP0-MZOuDd_bSjU-KCfes/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p/J4TDk09gKIihamBYcV79lOSP0-MZOuDd_bSjU-KCfes/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/J4TDk09gKIihamBYcV79lOSP0-MZOuDd_bSjU-KCfes/1050x700.jpg",
+          "width": 1050
+        },
+        "link": "https://www.gvmnet.it/strutture-sanitarie/villa-torri-hospital/le-specialita-mediche/specialita-ambulatoriali/check-up",
+        "sommario": "I Check Up cuore e vasi sono percorsi di prevenzione per le malattie cardiovascolari. Partendo da una visita cardiologica, vengono eseguiti una serie di esami diagnostici per identificare lo stato di salute del sistema cardiovascolare e la presenza di patologie. I percorsi di prevenzione sono adatti a pazienti di tutte le età e, in special modo, a chi presenta dei fattori di rischio.",
+        "titolo": "Prevenzione malattie cardiovascolari"
+      }
+    ],
+    "c_datiAmministrazione_1": "**VILLA TORRI HOSPITAL SRL a socio unico**  \nSede Legale: Viale Quirico Filopanti 12, 40126 Bologna  \nCodice Fiscale, Partita IVA e n. iscriz. Reg. Imprese Bologna 02383150394  \nPEC: gvm\\-torri@legalmail.it  \nAut. San. PG 207923 del 06/10/2004  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561 \\- Email: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "Il Villa Torri Hospital è un ospedale privato di Alta Specialità di Bologna accreditato SSN, noto a livello nazionale per gli interventi chirurgici avanzati.",
+    "c_descrizioneLunga": "Struttura privata di Alta Specialità di Bologna, il Villa Torri Hospital è accreditato con il Servizio Sanitario Nazionale e fa parte del gruppo GVM Care \\\u0026 Research dal 2010.\n\n\nL\u0027ospedale è riconosciuto a livello nazionale per gli interventi chirurgici, cardiochirurgici e ortopedici di alta complessità.\n\n\nIl Villa Torri Hospital di Bologna dispone di 8 posti letto in terapia intensiva e uno in isolamento; offre prestazioni in regime di ricovero ordinario, day hospital e day surgery. È inoltre dotato di strumentazione all\u0027avanguardia per la diagnostica per immagini e di una palestra attrezzata per la riabilitazione funzionale.",
+    "c_direttoreSanitario": "Dott.ssa Vittoria Lauro",
+    "c_elencoServiziStrutturaGVM": "* Palestra per riabilitazione",
+    "c_elencoSpecialitaStrutturaGVM": "* Aritmologia ed Elettrofisiologia\n* Cardiochirurgia\n* Endocrinologia\n* Neurochirurgia\n* Ortopedia e traumatologia\n* Riabilitazione funzionale",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "radiologia villa torri hospital bologna",
+      "height": 700,
+      "thumbnails": [
+        {
+          "height": 700,
+          "url": "https://a.mktgcdn.com/p/NSK3A2lPzgwqrC6kAF06ICXleuU7oPNmN9vJtbT6NGs/1050x700.jpg",
+          "width": 1050
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/NSK3A2lPzgwqrC6kAF06ICXleuU7oPNmN9vJtbT6NGs/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/NSK3A2lPzgwqrC6kAF06ICXleuU7oPNmN9vJtbT6NGs/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/NSK3A2lPzgwqrC6kAF06ICXleuU7oPNmN9vJtbT6NGs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/NSK3A2lPzgwqrC6kAF06ICXleuU7oPNmN9vJtbT6NGs/1050x700.jpg",
+      "width": 1050
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno villa torri hospital bologna",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/S9bR94Is_SVJLeQNRd9G_cXcrcgDH8Ic3dkGagZCEtg/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/S9bR94Is_SVJLeQNRd9G_cXcrcgDH8Ic3dkGagZCEtg/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/S9bR94Is_SVJLeQNRd9G_cXcrcgDH8Ic3dkGagZCEtg/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/S9bR94Is_SVJLeQNRd9G_cXcrcgDH8Ic3dkGagZCEtg/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/S9bR94Is_SVJLeQNRd9G_cXcrcgDH8Ic3dkGagZCEtg/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali villa torri hospital bologna",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/mudtK7H_tseIAfozViOP3TPiFo7PvNRVEh0ydrgTeyU/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/mudtK7H_tseIAfozViOP3TPiFo7PvNRVEh0ydrgTeyU/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/mudtK7H_tseIAfozViOP3TPiFo7PvNRVEh0ydrgTeyU/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Villa Torri Hospital",
+    "c_postiLetto": "99",
+    "c_regione": "EMILIA_ROMAGNA",
+    "c_regioneStruttura": [
+      "c_regione_emilia_romagna"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/villa-torri-hospital",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/villa-torri-hospital-bologna/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/villa-torri-hospital",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/villa-torri-hospital-bologna/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale  Alta Specialità a Bologna accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/GorxgIlXKRi8k2-QwZMW-3h91bVFYUC3ZZbZ1Ve28L0/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/153241458099520",
+    "facebookParentPageId": "1638513349751737",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJTYyPkrDUf0cRvCUoQR2rvJQ",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390519950311",
+    "name": "GVM - Villa Torri Hospital",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno villa torri hospital bologna",
+          "height": 700,
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "https://a.mktgcdn.com/p/YlBTjGVfRsbt3rrZChNY7OOdRUxfZngbjJwvpSILoXg/1050x700.jpg",
+              "width": 1050
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/YlBTjGVfRsbt3rrZChNY7OOdRUxfZngbjJwvpSILoXg/1050x700.jpg",
+          "width": 1050
+        }
+      }
+    ],
+    "r_regione": "Emilia Romagna",
+    "slug": "/villa-torri-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

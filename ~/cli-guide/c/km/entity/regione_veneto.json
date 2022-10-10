@@ -1,0 +1,15 @@
+{
+  "$id": "c_regione_veneto",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_regioneStruttura": [
+      "GVMOC19"
+    ],
+    "name": "Veneto",
+    "slug": "veneto"
+  },
+  "entityType": "ce_regione",
+  "folder": "yext/root",
+  "labels": []
+}

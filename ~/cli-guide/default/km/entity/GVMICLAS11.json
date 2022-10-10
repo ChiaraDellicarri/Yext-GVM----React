@@ -1,0 +1,221 @@
+{
+  "$id": "GVMICLAS11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Rapallo",
+      "countryCode": "IT",
+      "line1": "Via Mario Puchoz, 25",
+      "postalCode": "16035",
+      "region": "GE"
+    },
+    "c_amministratoreDelegato": "Sandro Mazzantini",
+    "c_baseURL": "https://www.gvmnet.it/strutture/iclas-istituto-clinico-ligure-di-alta-specialita-rapallo/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_datiAmministrazione_1": "**ICLAS SRL a socio unico**  \nSede Legale: Via Cabruna, 21 \\- 16035 RAPALLO (GE) \\- Codice Fiscale e n. iscriz. Reg. Imprese di GE: 03013030105 \\- Partita IVA 00201380995  \nPEC:[gvm\\-vaz@legalmail.it](mailto:gvm\\-vaz@legalmail.it)  \nAut. San. Autorizzazione N. 4/I rilasciata dal Comune di Rapallo il 18/07/2013  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: avv. Sara Bravi  \nTel: 02.885561 \\- Email: privacy\\-respamm@gvmnet.it  \nPEC: gvm\\-dpo@legalmail.it",
+    "c_descrizioneBreve": "L\u0027ICLAS Istituto Clinico Ligure di Alta Specialità è un ospedale privato di Rapallo (GE) accreditato SSN e specializzato nelle terapie cardiovascolari.",
+    "c_descrizioneLunga": "L\u0027Istituto Clinico Ligure di Alta Specialità (ICLAS) è una casa di cura privata di Alta Specialità sita a Rapallo, in provincia di Genova, e accreditata con il Servizio Sanitario Nazionale.\n\n\nL\u0027ICLAS è specializzato nella prevenzione, diagnosi e cura delle malattie legate all\u0027apparato cardiovascolare, anche in pazienti adulti nati con cardiopatie o malformazioni cardiache congenite.\n\n\nDispone di un:\n\n\n* Laboratorio di analisi per l\u0027emodinamica e la cardio\\-angiologia diagnostica e interventistica\n* Centro di diagnostica per immagini con radiologia, TC e Dental Scan.\n\n\nDei 71 posti letti presenti nell\u0027Istituto Clinico Ligure di Alta Specialità di Rapallo, 11 sono attrezzati per il monitoraggio continuo del paziente di cui:\n\n\n* 5 di terapia intensiva\n* 5 di terapia subintensiva\n* uno d\u0027isolamento.",
+    "c_direttoreSanitario": "Dott. Mauro Pierri",
+    "c_elencoServiziStrutturaGVM": "* Palestra per riabilitazione\n* Bar con Edicola",
+    "c_elencoSpecialitaStrutturaGVM": "* Cardiochirurgia\n* Ortopedia\n* Chirurgia plastica e ricostruttiva\n* Programma GUCH\n* Trattamento del piede diabetico",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "ambulatorio ICLAS rapallo genova",
+      "height": 600,
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "https://a.mktgcdn.com/p/3CK6VjYuJuK-R6ElTgXqgmq4Y_76nApwYsc1m6IpkUs/900x600.jpg",
+          "width": 900
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/3CK6VjYuJuK-R6ElTgXqgmq4Y_76nApwYsc1m6IpkUs/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/3CK6VjYuJuK-R6ElTgXqgmq4Y_76nApwYsc1m6IpkUs/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/3CK6VjYuJuK-R6ElTgXqgmq4Y_76nApwYsc1m6IpkUs/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/3CK6VjYuJuK-R6ElTgXqgmq4Y_76nApwYsc1m6IpkUs/900x600.jpg",
+      "width": 900
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno ICLAS rapallo genova",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/AjKkHyupZFpJgBsLA44SuZuwAEs-FkC__IxxUceScZs/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/AjKkHyupZFpJgBsLA44SuZuwAEs-FkC__IxxUceScZs/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/AjKkHyupZFpJgBsLA44SuZuwAEs-FkC__IxxUceScZs/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/AjKkHyupZFpJgBsLA44SuZuwAEs-FkC__IxxUceScZs/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/AjKkHyupZFpJgBsLA44SuZuwAEs-FkC__IxxUceScZs/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali ICLAS rapallo genova",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/mZx974jBt5k3I4fcyHeltSjRFLZg2G2XFgG_IhdVm-o/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/mZx974jBt5k3I4fcyHeltSjRFLZg2G2XFgG_IhdVm-o/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/mZx974jBt5k3I4fcyHeltSjRFLZg2G2XFgG_IhdVm-o/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "ICLAS Istituto Clinico Ligure di Alta Specialità",
+    "c_postiLetto": "71",
+    "c_regione": "LIGURIA",
+    "c_regioneStruttura": [
+      "c_regione_liguria"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/iclas-istituto-clinico-ligure-di-alta-specialita",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/iclas-istituto-clinico-ligure-di-alta-specialita-rapallo/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/iclas-istituto-clinico-ligure-di-alta-specialita",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/iclas-istituto-clinico-ligure-di-alta-specialita-rapallo/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale di Alta Specialità a Rapallo, in provincia di Genova, accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "displayCoordinate": {
+      "latitude": 44.3545341,
+      "longitude": 9.2151142
+    },
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/nKe4K4FgdVkXoAJTenEVhNprm85F4VDM6VBGhhuNEDs/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/147520678624285",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJ8wYvgkSg1BIRa-xhs7F3dUY",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+39018521311",
+    "name": "GVM - ICLAS Istituto Clinico Ligure di Alta Specialità",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno ICLAS rapallo genova",
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "https://a.mktgcdn.com/p/Ex1-2ILfIkfTlDH5Re75LO71PoP7l5JhQy_8oWH7nAM/2836x900.jpg",
+              "width": 2836
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/Ex1-2ILfIkfTlDH5Re75LO71PoP7l5JhQy_8oWH7nAM/2836x900.jpg",
+          "width": 2836
+        }
+      }
+    ],
+    "r_regione": "Liguria",
+    "slug": "/iclas-istituto-clinico-ligure-di-alta-specialita",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

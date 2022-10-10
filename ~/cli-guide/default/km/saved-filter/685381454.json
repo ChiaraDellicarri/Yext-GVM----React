@@ -1,0 +1,22 @@
+{
+  "$id": "685381454",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "U.S. Locations",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "location"
+        ],
+        "type": "IS"
+      }
+    ],
+    "geo": [
+      {
+        "miles": 10.0,
+        "text": "US",
+        "type": "IN"
+      }
+    ]
+  }
+}

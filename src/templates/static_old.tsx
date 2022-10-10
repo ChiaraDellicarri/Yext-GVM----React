@@ -58,7 +58,7 @@ export const transformProps: TransformProps<ExternalImageData> = async (
  * take on the form: featureName/entityId
  */
 export const getPath: GetPath<ExternalImageData> = () => {
-  return `index.html`;
+  return `oldindex.html`;
 };
 
 type ExternalImageRenderData = TemplateRenderProps & {
@@ -75,14 +75,14 @@ const Static: Template<ExternalImageRenderData> = ({
   document,
   externalImage,
 }) => {
-  const { _site } = document;
+    const { _site } = document;
 
   return (
     <>
       <PageLayout _site={_site}>
         <div className="centered-container">
           <div className="bg-red-900 text-5xl font-bold text-white p-10 flex items-center justify-center flex-col gap-x-14 gap-y-10 md:flex-row">
-            <h1>Welcome to Turtlehead Tacos</h1>
+              <h1>Welcome to Turtlehead Tacos</h1>
           </div>
           <div className="space-y-5">
             <p>
@@ -119,5 +119,7 @@ const Static: Template<ExternalImageRenderData> = ({
     </>
   );
 };
+
+
 
 export default Static;

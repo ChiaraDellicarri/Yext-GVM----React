@@ -1,0 +1,14 @@
+{
+  "$id": "c_descrizioneBreve",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Testo da visualizzare di fianco alla foto/banner principale",
+  "displayName": "Descrizione breve",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "1234994255",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "OspedaliFiltro",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "healthcareFacility"
+        ],
+        "type": "IS"
+      }
+    ],
+    "labels": [
+      {
+        "labelId": [
+          "ospedali"
+        ],
+        "type": "INCLUDES"
+      }
+    ]
+  }
+}

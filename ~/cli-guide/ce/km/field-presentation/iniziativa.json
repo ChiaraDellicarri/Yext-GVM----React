@@ -1,0 +1,62 @@
+{
+  "$id": "ce_iniziativa",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_iniziativa",
+  "displayName": "Iniziativa",
+  "presentationEntries": [
+    {
+      "displayName": "Contenuto",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Informazioni essenziali",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "primaryPhoto",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_descrizioneBreve",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_baseURL",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "slug",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_struttureCorrelate",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Altro",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Solo per uso interno",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

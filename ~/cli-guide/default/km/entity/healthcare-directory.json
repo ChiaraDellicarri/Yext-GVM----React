@@ -1,0 +1,12 @@
+{
+  "$id": "healthcare-directory",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "name": "Healthcare Directory",
+    "slug": "directory.html"
+  },
+  "entityType": "ce_root",
+  "folder": "yext/root",
+  "labels": []
+}

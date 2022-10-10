@@ -1,0 +1,42 @@
+{
+  "$id": "8198852829669247526",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_baseURL": "https://newsroom.gvmnet.it/20220002/la-prevenzione-e-donna-martedi-8-marzo-visite-cardiologiche-a-tariffa-dedicata",
+    "c_descrizioneBreve": "In occasione della Festa della Donna, GVM invita tutte voi, che spesso vi prendete cura della salute degli altri, a non trascurare mai la vostra di salute.",
+    "name": "Visite cardiologiche a tariffa dedicata",
+    "primaryPhoto": {
+      "image": {
+        "height": 675,
+        "thumbnails": [
+          {
+            "height": 675,
+            "url": "https://a.mktgcdn.com/p/ZDYoFYlPeoEodI9IdFE7TxRqxQJM9_s_-VsgeVdJRBo/1200x675.jpg",
+            "width": 1200
+          },
+          {
+            "height": 348,
+            "url": "https://a.mktgcdn.com/p/ZDYoFYlPeoEodI9IdFE7TxRqxQJM9_s_-VsgeVdJRBo/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "https://a.mktgcdn.com/p/ZDYoFYlPeoEodI9IdFE7TxRqxQJM9_s_-VsgeVdJRBo/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "https://a.mktgcdn.com/p/ZDYoFYlPeoEodI9IdFE7TxRqxQJM9_s_-VsgeVdJRBo/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/ZDYoFYlPeoEodI9IdFE7TxRqxQJM9_s_-VsgeVdJRBo/1200x675.jpg",
+        "width": 1200
+      }
+    },
+    "slug": "visite-8-marzo"
+  },
+  "entityType": "ce_iniziativa",
+  "labels": []
+}

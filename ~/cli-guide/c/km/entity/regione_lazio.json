@@ -1,0 +1,17 @@
+{
+  "$id": "c_regione_lazio",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "c_regioneStruttura": [
+      "GVMOSCN27",
+      "GVMSRDCH17",
+      "GVMTH35"
+    ],
+    "name": "Lazio",
+    "slug": "lazio"
+  },
+  "entityType": "ce_regione",
+  "folder": "yext/root",
+  "labels": []
+}

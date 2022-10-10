@@ -1,0 +1,222 @@
+{
+  "$id": "GVMMEH14",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Palermo",
+      "countryCode": "IT",
+      "line1": "Viale della Regione Siciliana Nord Ovest, 1571",
+      "postalCode": "90135",
+      "region": "PA"
+    },
+    "c_amministratoreDelegato": "Giuseppe Rago",
+    "c_baseURL": "https://www.gvmnet.it/strutture/maria-eleonora-hospital-palermo/home",
+    "c_bingWebsite": "[[c_baseURL]]?utm_source\u003dbing\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_datiAmministrazione_1": "**MARIA ELEONORA HOSPITAL Srl a socio unico**  \nSede Legale: Viale Regione Siciliana, 1571 \\- 90135 PALERMO (PA)  \nCodice Fiscale e n. iscriz. Reg. Imprese PA 01080400391 \\- Partita IVA 03790910826  \nPEC: [gvm\\-vme@legalmail.it](mailto:gvm\\-vme@legalmail.it)  \nAut. San. Decreto assessoriale numero 89249 del 29.12.1990  \n**Accreditata con il Servizio Sanitario Nazionale**  \n**Società soggetta all\u0027attività di direzione e coordinamento di Gruppo Villa Maria S.p.A**",
+    "c_datiAmministrazione_2": "**Organismo di Vigilanza​**  \nTel: 0545.909812  \nE\\-mail: organismodivigilanza@gvmnet.it  \nIndirizzo: Piazza Trisi 6, 48022 Lugo (RA)  \n**DPO**: dott.ssa Simona Tarpignati  \nTel: 0694288371 \\- Email: dpo.st@ecosafety.it  \nPEC: ecosafety@pec.it",
+    "c_descrizioneBreve": "Il Maria Eleonora Hospital di Palermo è un ospedale privato di Alta Specialità accreditato SSN e specializzato nel trattamento delle malattie cardiache.",
+    "c_descrizioneLunga": "Ospedale privato di Alta Specialità accreditato con il Servizio Sanitario Nazionale, il Maria Eleonora Hospital di Palermo fa parte del gruppo GVM Care \\\u0026 Research dal 1991.\n\n\nLa struttura è specializzata nel trattamento delle patologie cardiovascolari con ambulatori specialistici e unità operative nell\u0027ambito della cardiochirurgia, aritmologia ed elettrofisiologia.\n\n\nAll\u0027interno del Maria Eleonora Hospital di Palermo è disponibile anche un servizio di riabilitazione funzionale e tecnologie di ultima generazione per la diagnostica per immagini.",
+    "c_direttoreSanitario": "Dott. Giuseppe Termine",
+    "c_elencoSpecialitaStrutturaGVM": "* Aritmologia ed elettrofisiologia\n* Cardiochirurgia\n* Cardiologia\n* Chirurgia vascolare\n* Oculistica\n* Urologia",
+    "c_facebookWebsite": "[[c_baseURL]]?utm_source\u003dfacebook\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "c_immagineSpecialita": {
+      "alternateText": "diagnostica maria eleonora hospital palermo",
+      "height": 467,
+      "thumbnails": [
+        {
+          "height": 467,
+          "url": "https://a.mktgcdn.com/p/Xe7JOh7EYWCbL2bVbb0SZ4OfToJqW78E48HtZ_yxs0M/700x467.jpg",
+          "width": 700
+        },
+        {
+          "height": 413,
+          "url": "https://a.mktgcdn.com/p/Xe7JOh7EYWCbL2bVbb0SZ4OfToJqW78E48HtZ_yxs0M/619x413.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "https://a.mktgcdn.com/p/Xe7JOh7EYWCbL2bVbb0SZ4OfToJqW78E48HtZ_yxs0M/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "https://a.mktgcdn.com/p/Xe7JOh7EYWCbL2bVbb0SZ4OfToJqW78E48HtZ_yxs0M/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/Xe7JOh7EYWCbL2bVbb0SZ4OfToJqW78E48HtZ_yxs0M/700x467.jpg",
+      "width": 700
+    },
+    "c_immagineStruttura": {
+      "alternateText": "esterno maria eleonora hospital palermo",
+      "height": 675,
+      "thumbnails": [
+        {
+          "height": 675,
+          "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/1200x675.jpg",
+          "width": 1200
+        },
+        {
+          "height": 348,
+          "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/619x348.jpg",
+          "width": 619
+        },
+        {
+          "height": 338,
+          "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/600x338.jpg",
+          "width": 600
+        },
+        {
+          "height": 110,
+          "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/196x110.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/1200x675.jpg",
+      "width": 1200
+    },
+    "c_immagine_cartina": {
+      "alternateText": "indicazioni stradali maria eleonora hospital palermo",
+      "height": 316,
+      "thumbnails": [
+        {
+          "height": 316,
+          "url": "https://a.mktgcdn.com/p/DRN8jt63y0CswnuoONpw7Pd4xLOdavMzzcPzGhnoOhQ/420x316.jpg",
+          "width": 420
+        },
+        {
+          "height": 147,
+          "url": "https://a.mktgcdn.com/p/DRN8jt63y0CswnuoONpw7Pd4xLOdavMzzcPzGhnoOhQ/196x147.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/DRN8jt63y0CswnuoONpw7Pd4xLOdavMzzcPzGhnoOhQ/420x316.jpg",
+      "width": 420
+    },
+    "c_nomeStruttura": "Maria Eleonora Hospital",
+    "c_postiLetto": "90",
+    "c_regione": "SICILIA",
+    "c_regioneStruttura": [
+      "c_regione_sicilia"
+    ],
+    "c_urlContatti": "https://www.gvmnet.it/contatti/cont/maria-eleonora-hospital",
+    "c_urlOrari": "https://www.gvmnet.it/strutture/maria-eleonora-hospital-palermo/orari-e-info-generali",
+    "c_urlPrenotazione": "https://www.gvmnet.it/prenota/pren/maria-eleonora-hospital",
+    "c_urlTutteLeSpecialita": "https://www.gvmnet.it/strutture/maria-eleonora-hospital-palermo/specialita-mediche",
+    "categoryIds": [
+      "1550375",
+      "1276"
+    ],
+    "closed": false,
+    "description": "Ospedale di Alta Specialità a Palermo accreditato con il Servizio Sanitario Nazionale. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "displayCoordinate": {
+      "latitude": 38.1173474,
+      "longitude": 13.3293631
+    },
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/iO46dB3QyM5SAkabh_Cx87QckVSvBPSrS-_kf7PYk-c/851x315.jpg",
+      "width": 851
+    },
+    "facebookPageUrl": "https://www.facebook.com/173292756137043",
+    "facebookParentPageId": "1638513349751737",
+    "facebookVanityUrl": "GVMMariaEleonoraHospital",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJLWSg3T3vGRMRMOZS8WJggIU",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390916981111",
+    "name": "GVM - Maria Eleonora Hospital",
+    "photoGallery": [
+      {
+        "image": {
+          "alternateText": "esterno maria eleonora hospital palermo",
+          "height": 675,
+          "thumbnails": [
+            {
+              "height": 675,
+              "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/1200x675.jpg",
+              "width": 1200
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/_tRGUlzt83qkpTsxw791BGQYTMcbxURWEhdZvDhWcFs/1200x675.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "r_regione": "Sicilia",
+    "slug": "/maria-eleonora-hospital",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "healthcareFacility",
+  "labels": [
+    "ospedali"
+  ]
+}

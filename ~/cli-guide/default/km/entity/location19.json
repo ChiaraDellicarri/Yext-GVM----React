@@ -1,0 +1,19 @@
+{
+  "$id": "location19",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Berlin",
+      "countryCode": "DE",
+      "line1": "Eichhornstraße 3",
+      "line2": "c/o WeWork Atrium Tower",
+      "postalCode": "10785"
+    },
+    "name": "Turtlehead Tacos (auf Deutsch)",
+    "slug": "de/berlin/location19-de.html",
+    "timezone": "Europe/Berlin"
+  },
+  "entityType": "location",
+  "labels": []
+}

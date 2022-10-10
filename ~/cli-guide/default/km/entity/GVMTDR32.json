@@ -1,0 +1,128 @@
+{
+  "$id": "GVMTDR32",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "it",
+  "content": {
+    "address": {
+      "city": "Vigalfo",
+      "countryCode": "IT",
+      "line1": "Via Case Nuove",
+      "line2": "Frazione Vigalfo",
+      "postalCode": "27010",
+      "region": "PV"
+    },
+    "categoryIds": [
+      "1550375",
+      "1037"
+    ],
+    "closed": false,
+    "description": "Residenza per Anziani e Residenza Sanitaria Assistenziale a Vingalfo, frazione di Albuzzano in provincia di Pavia, che accoglie sia persone autosufficienti che non autosufficienti. Per maggiori informazioni e prenotazioni visita il sito web.",
+    "facebookCallToAction": {
+      "type": "CALL_NOW",
+      "value": "[[mainPhone]]"
+    },
+    "facebookCoverPhoto": {
+      "height": 315,
+      "url": "http://a.mktgcdn.com/p/SMQiZB1auOFtm7RCcdJvgmexWR4eYKvqbE8BZZqOgO0/851x315.jpg",
+      "width": 851
+    },
+    "facebookOverrideCity": "Albuzzano",
+    "facebookPageUrl": "https://www.facebook.com/535997563598337",
+    "facebookParentPageId": "1638513349751737",
+    "facebookProfilePhoto": {
+      "height": 200,
+      "url": "http://a.mktgcdn.com/p/6vQLX_HRxeqaEjKlqDzrQvWogpTLKCOXXhcA-hvdBK8/200x200.png",
+      "width": 200
+    },
+    "facebookVanityUrl": "GVMTorredellaRocchetta",
+    "googleAccountId": "111031181260357100829",
+    "googlePlaceId": "ChIJ8ZCpEIgph0cRxrLIDgSe9Gs",
+    "googleWebsiteOverride": "[[c_baseURL]]?utm_source\u003dgoogle\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]",
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          },
+          {
+            "end": "18:00",
+            "start": "14:30"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          },
+          {
+            "end": "18:00",
+            "start": "14:30"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          },
+          {
+            "end": "18:00",
+            "start": "14:30"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          },
+          {
+            "end": "18:00",
+            "start": "14:30"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "12:30",
+            "start": "09:00"
+          },
+          {
+            "end": "18:00",
+            "start": "14:30"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+390382480162",
+    "name": "GVM - Torre della Rocchetta - Residenza per anziani",
+    "slug": "torre_della_rocchetta",
+    "timezone": "Europe/Rome",
+    "websiteUrl": {
+      "displayUrl": "[[c_baseURL]]",
+      "preferDisplayUrl": false,
+      "url": "[[c_baseURL]]?utm_source\u003dextNet\u0026utm_medium\u003dYext\u0026utm_campaign\u003d[[entityId]]"
+    }
+  },
+  "entityType": "location",
+  "labels": [
+    "altro"
+  ]
+}

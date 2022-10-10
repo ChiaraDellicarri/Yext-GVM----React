@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\node_modules\\@headlessui\\react",
+    "\\node_modules\\@headlessui\\react\\dist",
+    "\\node_modules\\@yext",
+    "\\node_modules\\@yext\\search-headless",
+    "\\node_modules\\@yext\\search-headless\\dist",
+    "\\src",
+    "\\src\\types",
+    "\\src\\types\\search"
+  ],
+  "SelectedNode": "\\src\\components\\map\\map.tsx",
+  "PreviewInSolutionExplorer": false
+}
