@@ -1,14 +1,5 @@
 import * as React from 'react';
 
-/*export type SingleArticle = {
-    title: string;
-    desc: string;
-    link: string;
-    imgUrl: string;
-    imgWidth: string;
-    imgHeight: string;    
-}
-*/
 type InEvidenza = {
     articoli?: any;
 }

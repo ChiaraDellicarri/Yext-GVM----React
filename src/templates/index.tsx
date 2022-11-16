@@ -1,10 +1,8 @@
 import React, {useLayoutEffect } from "react";
 import PageLayout from "../components/page-layout";
 import HeaderIndex, { Link } from "../components/header-index";
-import GoogleMapCluster from "../components/GoogleMapCluster";
-import GoogleCustomMap from "../components/GoogleCustomMap"
-import "../index.css";/*
-import "../types/index.ts";*/
+import "../index.css";
+import "../types/index.ts";
 import {
     Template,
     GetPath,
@@ -79,20 +77,10 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({ relativePref
                     rel: "stylesheet",
                     href: "https://use.typekit.net/yfq1avx.css"
                 },
-            }
-           
+            }         
         ],
     };
 };
-
-const searcher = provideHeadless({
-    apiKey: "dec78727a3b27e9374f795442592f899",
-    experienceKey: "gvm-hospital-experience-key",
-    verticalKey: "strutture_sanitarie",
-    locale: "it",
-});
-
-
 
 const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, document }) => {
     const {
@@ -102,13 +90,16 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
 
     var strutture: any = [];
 
-    var sortedStrutture = dm_directoryChildren.map((entity: any) => {           
-        { entity.dm_directoryChildren.map((struttura: any) => strutture.push(struttura))}      
+    var sortedStrutture = dm_directoryChildren.map((entity: any) => {
+        { entity.dm_directoryChildren.map((struttura: any) => strutture.push(struttura)) }
         strutture.sort(function (a: any, b: any) {
             var a = a.c_nomeStruttura, b = b.c_nomeStruttura;
             return (a < b) ? -1 : (a > b) ? 1 : 0;
-        })        
+        })
     });
+
+/*
+    
 
     const childrenDivsWithRegion = dm_directoryChildren.map((entity: any) => (
         <div>
@@ -130,7 +121,7 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
                 ))}
             </div>
         </div>
-    ));
+    ));*/
 
 /*    const childrenDivs = strutture.map((struttura: any, index: number) => (
 
@@ -159,6 +150,7 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
                         ></HeaderIndex>
                     </div>
                     <div className="w-full">
+                            {sortedStrutture}
                             <Searchbox defaultLocations={strutture}/>      
                     </div>
                 </div>

@@ -58,8 +58,6 @@ class AutoComplete extends Component {
         const _addEventListener = input.addEventListener;
 
         const addEventListenerWrapper = (type, listener) => {
-            console.log(type);
-            console.log(listener);
                 if (type === 'keydown') {
                     /* Store existing listener function */
                     const _listener = listener

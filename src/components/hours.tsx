@@ -27,8 +27,6 @@ type OpenIntervals = {
 
 const todayIndex = new Date().getDay() == 0 ? 6 : new Date().getDay() -1;
 
-console.log("todayIndex");
-console.log(todayIndex);
 /**
  * Dynamically creates a sort order based on today's day.
  */

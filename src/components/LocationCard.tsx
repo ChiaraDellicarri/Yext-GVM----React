@@ -22,9 +22,6 @@ const LocationCard: CardComponent<HealthcareFacility> = ({ result }) => {
                 className="text-xs text-blue-700 hover:underline">
                 View Location Website
             </a>
-            <script>
-              {/*  console.log({result.rawData.geocodedCoordinate?.latitude});*/}
-            </script>
           
         </div >
     );

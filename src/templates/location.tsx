@@ -20,8 +20,6 @@ import {
 } from "@yext/pages";
 import * as React from "react";
 import Banner from "../components/banner";
-import Contact from "../components/contact";
-import Cta from "../components/cta";
 import PageLayout from "../components/page-layout";
 import InfoLocation from "../components/info-location";
 import "../index.css";
@@ -182,7 +180,6 @@ const Location: Template<TemplateRenderProps> = ({
     hours,
     mainPhone,
     geocodedCoordinate,
-    services,
     c_nomeStruttura,
     c_descrizioneBreve,
     c_urlPrenotazione,
@@ -204,24 +201,6 @@ const Location: Template<TemplateRenderProps> = ({
     c_datiAmministrazione_2,
    
   } = document;
-
-
-   /* const dm = dm_directoryParents.map((e, index) => {
-        return (
-            <p key={index}>{e}</p>
-            )
-    })*/
-
-    const regionePadreNome = dm_directoryParents.map((entity: any, index) => {
-        if (entity.meta.entityType.id == "ce_region")
-            return (
-                <h2 className="narrow_title">
-                        {entity.name}
-                    </h2>
-            )
-    });
-
-
 
   return (
     <>

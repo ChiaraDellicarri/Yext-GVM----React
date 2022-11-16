@@ -11,7 +11,7 @@ const defaultProps = {
 let checkIfGeolocationisRequested = false;
 
 type Props = {
-    defaultLocations: [];
+    defaultLocations?: [];
 }
 
 let userLocation = {
@@ -38,7 +38,6 @@ class Searchbox extends Component<Props> {
         /* this.setState({ places: current });*/
         checkIfGeolocationisRequested = true;
         this.appFetch(current);
-        console.log(current);
     }
 
    
@@ -67,7 +66,6 @@ class Searchbox extends Component<Props> {
             mapApi: maps,
             places: this.props.defaultLocations,     
         });
-        console.log(this.props.defaultLocations);
     };
 
     addPlace = (place) => {

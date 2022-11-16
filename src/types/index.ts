@@ -3,19 +3,18 @@ let service: google.maps.places.PlacesService;
 let infowindow: google.maps.InfoWindow;
 /*let mapDOM = document.getElementById("map") as HTMLElement;*/
 
-const node = mapRef.current;
 
 function initMap(): void {
-    const sydney = new google.maps.LatLng(-33.867, 151.195);
+   /* const sydney = new google.maps.LatLng(-33.867, 151.195);*/
 
     infowindow = new google.maps.InfoWindow();
 
-    map = new google.maps.Map(document.getElementById("map") as HTMLElement, {
+  /*  map = new google.maps.Map(document.getElementById("map") as HTMLElement, {
         center: sydney,
         zoom: 15,
     });
-    console.log(map);
-    const request = {
+    console.log(map);*/
+   /* const request = {
         query: "Museum of Contemporary Art Australia",
         fields: ["name", "geometry"],
     };
@@ -36,10 +35,10 @@ function initMap(): void {
                 map.setCenter(results[0].geometry!.location!);
             }
         }
-    );
+    );*/
 }
 
-function createMarker(place: google.maps.places.PlaceResult) {
+/*function createMarker(place: google.maps.places.PlaceResult) {
     if (!place.geometry || !place.geometry.location) return;
 
     const marker = new google.maps.Marker({
@@ -51,7 +50,7 @@ function createMarker(place: google.maps.places.PlaceResult) {
         infowindow.setContent(place.name || "");
         infowindow.open(map);
     });
-}
+}*/
 
 declare global {
     interface Window {
@@ -59,14 +58,9 @@ declare global {
     }
 }
 if (typeof window !== "undefined") {
-
-           
-    console.log('Element is ready');
+    console.log('Window is ready');
     /*  console.log(elm.textContent);*/
     window.initMap = initMap;
-    console.log(window);
- 
-
 }
 
 
