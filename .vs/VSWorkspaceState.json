@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\node_modules",
-    "\\node_modules\\@headlessui\\react",
-    "\\node_modules\\@headlessui\\react\\dist",
     "\\node_modules\\@yext",
-    "\\node_modules\\@yext\\search-headless",
-    "\\node_modules\\@yext\\search-headless\\dist",
-    "\\src",
-    "\\src\\types",
-    "\\src\\types\\search"
+    "\\node_modules\\@yext\\pages",
+    "\\node_modules\\@yext\\pages\\dist",
+    "\\node_modules\\@yext\\pages\\dist\\preview",
+    "\\node_modules\\@yext\\pages\\dist\\types",
+    "\\node_modules\\@yext\\pages\\dist\\util",
+    "\\node_modules\\prettier",
+    "\\node_modules\\pretty-format"
   ],
-  "SelectedNode": "\\src\\components\\map\\map.tsx",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }

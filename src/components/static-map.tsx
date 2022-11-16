@@ -15,15 +15,15 @@ const StaticMap = (props: Coordinates) => {
         width="300"
         height="200"
         src={
-          "https://maps.googleapis.com/maps/api/staticmap?center=" +
-          `${latitude}` +
-          "," +
-          `${longitude}` +
-          "&zoom=14&size=600x400&maptype=roadmap&markers=color:red%7Clabel:LL%7C" +
-          `${latitude}` +
-          "," +
-          `${longitude}` +
-          "&key=AIzaSyDZNQlSlEIkFAct5VzUtsP4dSbvOr2bE18"
+            "https://maps.googleapis.com/maps/api/staticmap?size=600x400&maptype=roadmap&style=feature:all%7Csaturation:-100&markers=icon:https://www.gvmnet.it/App_Themes/GVMNet/images/markerBlue.png%7C" +
+            `${latitude}` +
+            "," +
+            `${longitude}` +
+            "&center=" +
+            `${latitude}` +
+            "," +
+            `${longitude}` +
+            "&key=" + `${import.meta.env.YEXT_PUBLIC_GOOGLE_API_KEY}` + "&zoom=15"
         }
       ></img>
     </>
@@ -31,3 +31,4 @@ const StaticMap = (props: Coordinates) => {
 };
 
 export default StaticMap;
+

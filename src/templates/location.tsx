@@ -22,11 +22,14 @@ import * as React from "react";
 import Banner from "../components/banner";
 import Contact from "../components/contact";
 import Cta from "../components/cta";
-import Hours from "../components/hours";
-import List from "../components/list";
 import PageLayout from "../components/page-layout";
-import StaticMap from "../components/static-map";
+import InfoLocation from "../components/info-location";
 import "../index.css";
+import About from "../components/about";
+import InEvidenza from "../components/InEvidenza";
+import SpecialitaServizi from "../components/SpecialitaServizi";
+import Nearby from "../components/Nearby";
+import DatiLegali from "../components/DatiLegali";
 
 /**
  * Required when Knowledge Graph data is used for a template.
@@ -37,16 +40,54 @@ export const config: TemplateConfig = {
     // Specifies the exact data that each generated document will contain. This data is passed in
     // directly as props to the default exported function.
     fields: [
-      "id",
-      "uid",
-      "meta",
-      "name",
-      "address",
-      "mainPhone",
-      "description",
-      "hours",
-      "slug",
-      "geocodedCoordinate"
+        "id",
+        "uid",
+        "meta",
+        "name",
+        "address",
+        "mainPhone",
+        "description",
+        "hours",
+        "slug",
+        "geocodedCoordinate",
+        "c_nomeStruttura",       
+        "c_regione",
+        "c_descrizioneLunga",
+        "photoGallery",
+        "c_immagineStruttura",
+        "c_immagineSpecialita",
+        "c_immagine_cartina",
+        "c_descrizioneBreve",
+        "services",
+        "c_baseURL",
+        "c_uRLStrutturaSitoGVM",
+        "c_urlPrenotazione",
+        "c_urlContatti",
+        "c_urlOrari",
+        "websiteUrl",
+        "neighborhood",
+        "paymentOptions",
+        "primaryPhoto",
+        "c_iniziativeCorrelate.primaryPhoto",
+        "c_iniziativeCorrelate.c_descrizioneBreve",
+        "c_iniziativeCorrelate.c_baseURL",
+        "c_iniziativeCorrelate.slug",
+        "c_iniziativeCorrelate.name",
+        "c_contenutiInEvidenza",
+        "c_direttoreSanitario",
+        "c_amministratoreDelegato",
+        "c_postiLetto",
+        "c_datiAmministrazione_1",
+        "c_datiAmministrazione_2",
+        "c_elencoSpecialitaStrutturaGVM",
+        "c_elencoServiziStrutturaGVM",
+        "c_urlTutteLeSpecialita",
+        "c_regioneStruttura.name",
+        "c_regioneStruttura.id",
+        "c_regioneStruttura.slug",
+        "dm_directoryParents.name",
+        "dm_directoryParents.slug",
+        "dm_directoryParents.meta.entityType"
     ],
     // Defines the scope of entities that qualify for this stream.
     filter: {
@@ -82,7 +123,7 @@ export const getPath: GetPath<TemplateProps> = ({ document }) => {
  * a new deploy.
  */
 export const getRedirects: GetRedirects<TemplateProps> = ({ document }) => {
-  return [`index-old/${document.id.toString()}`];
+  return [`index/${document.id.toString()}`];
 };
 
 /**
@@ -101,44 +142,32 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({
     charset: "UTF-8",
     viewport: "width=device-width, initial-scale=1",
     tags: [
-      {
-        type: "meta",
-        attributes: {
-          name: "description",
-          content: document.description,
+        {
+            type: "meta",
+            attributes: {
+                name: "description",
+                content: document.description,
+            },
         },
-    },
-    {
-        type: "meta",
-        attributes: {
-            name: "author",
-            content: "Gruppo Villa Maria",
+        {
+            type: "meta",
+            attributes: {
+                name: "author",
+                content: "Gruppo Villa Maria",
+            },
         },
-     },
-
+        {
+            type: "link",
+            attributes: {
+                rel: "stylesheet",
+                href: "https://use.typekit.net/yfq1avx.css"
+            },
+        }
     ],
   };
 };
-/*
-const Index: Template<TemplateRenderProps> = ({ document }) => {
-    const { _site } = document;
 
-    return (
-        <>
-            <div>{_site.name}</div>
-        </>
-    );
-};*/
 
-/**
- * This is the main template. It can have any name as long as it's the default export.
- * The props passed in here are the direct stream document defined by `config`.
- *
- * There are a bunch of custom components being used from the src/components folder. These are
- * an example of how you could create your own. You can set up your folder structure for custom
- * components any way you'd like as long as it lives in the src folder (though you should not put
- * them in the src/templates folder as this is specific for true template files).
- */
 const Location: Template<TemplateRenderProps> = ({
   relativePrefixToRoot,
   path,
@@ -147,48 +176,72 @@ const Location: Template<TemplateRenderProps> = ({
   const {
     _site,
     name,
+    id,
     address,
     openTime,
     hours,
     mainPhone,
     geocodedCoordinate,
     services,
+    c_nomeStruttura,
+    c_descrizioneBreve,
+    c_urlPrenotazione,
+    c_uRLStrutturaSitoGVM,
+    c_immagineStruttura,
+    dm_directoryParents,
+    c_descrizioneLunga,
+    c_urlOrari,
+    c_urlContatti,
+    c_direttoreSanitario,
+    c_amministratoreDelegato,
+    c_postiLetto,
+    c_contenutiInEvidenza,
+    c_elencoSpecialitaStrutturaGVM,
+    c_immagineSpecialita,
+    c_elencoServiziStrutturaGVM,
+    c_urlTutteLeSpecialita,
+    c_datiAmministrazione_1,
+    c_datiAmministrazione_2,
+   
   } = document;
+
+
+   /* const dm = dm_directoryParents.map((e, index) => {
+        return (
+            <p key={index}>{e}</p>
+            )
+    })*/
+
+    const regionePadreNome = dm_directoryParents.map((entity: any, index) => {
+        if (entity.meta.entityType.id == "ce_region")
+            return (
+                <h2 className="narrow_title">
+                        {entity.name}
+                    </h2>
+            )
+    });
+
+
 
   return (
     <>
-      <PageLayout _site={_site}>
-        <Banner name={name} address={address} openTime={openTime}>
-          <div className="bg-white h-40 w-1/5 flex items-center justify-center text-center flex-col space-y-4 rounded-lg">
-            <div className="text-black text-base">Visit Us Today!</div>
-            <Cta
-              buttonText="Get Directions"
-              url="http://google.com"
-              style="primary-cta"
-            />
-          </div>
-        </Banner>
-        <div className="centered-container">
-          <div className="section">
-            <div className="grid grid-cols-3 gap-x-10 gap-y-10">
-              <div className="bg-gray-100 p-5 space-y-12">
-                <Contact address={address} phone={mainPhone}></Contact>
-                {services && <List list={services}></List>}
-              </div>
-              <div className="col-span-2 pt-5 space-y-10">
-                <div>
-                  {hours && <Hours title={"Restaurant Hours"} hours={hours} />}
-                </div>
-                {geocodedCoordinate && (
-                  <StaticMap
-                    latitude={geocodedCoordinate.latitude}
-                    longitude={geocodedCoordinate.longitude}
-                  ></StaticMap>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
+          <PageLayout name={name} c_name={c_nomeStruttura} id={id} address={address} urlPrenotazione={c_urlPrenotazione} urlStrutturaSitoGVM={c_uRLStrutturaSitoGVM} regione={dm_directoryParents} >
+              <Banner name={c_nomeStruttura} address={address} info={c_descrizioneBreve} openTime={openTime} tel={mainPhone} prenota={c_urlPrenotazione} immagine={c_immagineStruttura.url} />
+              <InfoLocation geocodedCoordinate={geocodedCoordinate} defaultName={name} address={address} hours={hours} regione={dm_directoryParents} />
+              <About
+                info={c_descrizioneLunga ? c_descrizioneLunga : c_descrizioneBreve}
+                urlStrutturaSitoGVM={c_uRLStrutturaSitoGVM}
+                urlOrari={c_urlOrari}
+                urlContatti={c_urlContatti }
+                urlPrenotazione={c_urlPrenotazione}
+                direttoreSanitario={c_direttoreSanitario}
+                amministratoreDelegato={c_amministratoreDelegato}
+                postiLetto={c_postiLetto}
+              />
+              {c_contenutiInEvidenza && <InEvidenza articoli={c_contenutiInEvidenza} />}
+              {c_elencoSpecialitaStrutturaGVM && <SpecialitaServizi name={name} c_name={c_nomeStruttura} immagine={c_immagineSpecialita} specialita={c_elencoSpecialitaStrutturaGVM} servizi={c_elencoServiziStrutturaGVM} link={c_urlTutteLeSpecialita} />}
+              <Nearby lat={geocodedCoordinate.latitude} lng={geocodedCoordinate.longitude} />
+              <DatiLegali dati1={c_datiAmministrazione_1} dati2={c_datiAmministrazione_2}/>
       </PageLayout>
     </>
   );

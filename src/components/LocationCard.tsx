@@ -11,6 +11,7 @@ const LocationCard: CardComponent<HealthcareFacility> = ({ result }) => {
     const { address } = result.rawData;
     return (
         <div className="p-4 bg-white">
+          
             <h1 className="text-slate-900">{result.rawData.name}</h1>
             <p className="text-sm text-slate-700">{address.line1}</p>
             <p className="text-sm text-slate-700">{address.city}, {address.region}, {address.postalCode} </p>
@@ -21,6 +22,10 @@ const LocationCard: CardComponent<HealthcareFacility> = ({ result }) => {
                 className="text-xs text-blue-700 hover:underline">
                 View Location Website
             </a>
+            <script>
+              {/*  console.log({result.rawData.geocodedCoordinate?.latitude});*/}
+            </script>
+          
         </div >
     );
 }
