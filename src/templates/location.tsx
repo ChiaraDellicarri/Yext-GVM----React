@@ -226,7 +226,7 @@ const Location: Template<TemplateRenderProps> = ({
   return (
     <>
           <PageLayout name={name} c_name={c_nomeStruttura} id={id} address={address} urlPrenotazione={c_urlPrenotazione} urlStrutturaSitoGVM={c_uRLStrutturaSitoGVM} regione={dm_directoryParents} >
-              <Banner name={c_nomeStruttura} address={address} info={c_descrizioneBreve} openTime={openTime} tel={mainPhone} prenota={c_urlPrenotazione} immagine={c_immagineStruttura.url} />
+              <Banner name={c_nomeStruttura} info={c_descrizioneBreve} openTime={openTime} tel={mainPhone} prenota={c_urlPrenotazione} immagine={c_immagineStruttura.url} />
               <InfoLocation geocodedCoordinate={geocodedCoordinate} defaultName={name} address={address} hours={hours} regione={dm_directoryParents} />
               <About
                 info={c_descrizioneLunga ? c_descrizioneLunga : c_descrizioneBreve}
