@@ -159,7 +159,7 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({
             attributes: {
                 rel: "stylesheet",
                 href: "https://use.typekit.net/yfq1avx.css"
-            },
+            }
         }
     ],
   };
@@ -172,7 +172,6 @@ const Location: Template<TemplateRenderProps> = ({
   document,
 }) => {
   const {
-    _site,
     name,
     id,
     address,

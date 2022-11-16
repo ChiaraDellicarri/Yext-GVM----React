@@ -14,7 +14,7 @@ type Props = {
     defaultLocations?: [];
 }
 
-let userLocation = {
+const userLocation = {
     lat: 42.159872, lng: 13.405838
 };
 
@@ -42,11 +42,11 @@ class Searchbox extends Component<Props> {
 
    
     handleCurrentPosition = () => {
-        let context = this;
+        const context = this;
         navigator.geolocation.getCurrentPosition(
             function (position) {
                 console.log(position);
-                let currentCoordinate = position;
+                const currentCoordinate = position;
                 context.setCurrentPosition(currentCoordinate);
             },
             function (error) {
@@ -74,7 +74,7 @@ class Searchbox extends Component<Props> {
 
 
     appFetch = (place) => {
-        let context = this;
+        const context = this;
         const fetchPlaces = async () => {     
             let latitude;
             let longitude;
@@ -173,7 +173,7 @@ class Searchbox extends Component<Props> {
                                         </div>
                                         <div className="lp-param-results lp-subparam-getDirectionsLabel">
                                             <div className="link">
-                                                <a target="_blank" itemProp="url" href={`https://www.google.com/maps/dir/?api=1&destination=${struttura.name} ${struttura.address.line1} ${struttura.address.city} ${struttura.address.region} ${struttura.address.postalCode}`}>
+                                                <a target="_blank" itemProp="url" href={`https://www.google.com/maps/dir/?api=1&destination=${struttura.name} ${struttura.address.line1} ${struttura.address.city} ${struttura.address.region} ${struttura.address.postalCode}`} rel="noreferrer">
                                                     <p>Ottieni indicazioni</p>
                                                 </a>
                                             </div>
@@ -198,8 +198,8 @@ class Searchbox extends Component<Props> {
                     {places && places.map((place, index) => {                      
                         if (place.geocodedCoordinate) { 
                             if (checkIfGeolocationisRequested == true) {
-                                { mapInstance.setZoom(9) };
-                                { mapInstance.setCenter(userLocation) };
+                                { mapInstance.setZoom(9) }
+                                { mapInstance.setCenter(userLocation) }
                                 checkIfGeolocationisRequested = false;
                             }
                             return (

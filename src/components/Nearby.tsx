@@ -32,7 +32,7 @@ const Nearby = (props: Nearby) => {
     };       
     if (fullURL) {
         fetchPlaces();      
-    };  
+    }  
   
 
     return (
@@ -46,7 +46,7 @@ const Nearby = (props: Nearby) => {
                         {place.map((el, index) => {
                             if (index > 0) {
                                 return (
-                                    <a data-ya-track="LinkStrutturaVicina" target="_blank" href={el.slug} className="location_nearby">
+                                    <a data-ya-track="LinkStrutturaVicina" target="_blank" href={el.slug} className="location_nearby" rel="noreferrer">
                                         <div className="grid address-cta-column">
                                             <div className="image" style={{ background: `url(${el.c_immagineStruttura.url})` }}></div>
                                             <h5 className="name text-xl font-semibold">{el.c_nomeStruttura ? el.c_nomeStruttura : el.name}</h5>

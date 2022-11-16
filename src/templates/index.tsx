@@ -1,30 +1,16 @@
-import React, {useLayoutEffect } from "react";
-import PageLayout from "../components/page-layout";
+import React from "react";
 import HeaderIndex, { Link } from "../components/header-index";
 import "../index.css";
 import "../types/index.ts";
 import {
     Template,
     GetPath,
-    GetRedirects,
     TemplateConfig,
     TemplateProps,
     TemplateRenderProps,
     GetHeadConfig,
     HeadConfig,
 } from "@yext/pages";
-import {
-    SearchHeadlessProvider,
-    provideHeadless, useSearchActions
-} from "@yext/search-headless-react";
-import {
-    SearchBar,
-    StandardCard,
-    VerticalResults,
-    VisualAutocompleteConfig,
-    DropdownItem,
-} from "@yext/search-ui-react";
-import { useEffect, useState } from "react";
 import Searchbox from "../components/SearchBox";
 
 export const config: TemplateConfig = {
@@ -88,9 +74,9 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
     } = document;
    
 
-    var strutture: any = [];
+    const strutture: any = [];
 
-    var sortedStrutture = dm_directoryChildren.map((entity: any) => {
+    const sortedStrutture = dm_directoryChildren.map((entity: any) => {
         { entity.dm_directoryChildren.map((struttura: any) => strutture.push(struttura)) }
         strutture.sort(function (a: any, b: any) {
             var a = a.c_nomeStruttura, b = b.c_nomeStruttura;

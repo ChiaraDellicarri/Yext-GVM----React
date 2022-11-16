@@ -65,7 +65,7 @@ class AutoComplete extends Component {
                         /* Simulate a 'down arrow' keypress if no address has been selected */
                         const suggestionSelected = document.getElementsByClassName('pac-item-selected').length
                         if (event.key === 'Enter' && !suggestionSelected) {
-                            let arrowDown = new KeyboardEvent('keydown');
+                            const arrowDown = new KeyboardEvent('keydown');
                             Object.defineProperty(arrowDown, 'keyCode', {
                                 get: () => 40
                             });

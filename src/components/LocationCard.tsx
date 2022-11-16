@@ -19,7 +19,7 @@ const LocationCard: CardComponent<HealthcareFacility> = ({ result }) => {
             <a
                 target="_blank"
                 href={`/location/${result.id}`}
-                className="text-xs text-blue-700 hover:underline">
+                className="text-xs text-blue-700 hover:underline" rel="noreferrer">
                 View Location Website
             </a>
           
