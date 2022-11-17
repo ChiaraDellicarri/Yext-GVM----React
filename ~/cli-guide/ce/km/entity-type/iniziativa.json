@@ -1,7 +1,0 @@
-{
-  "$id": "ce_iniziativa",
-  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
-  "description": "Iniziative ed eventi correlati alle strutture GVM",
-  "displayName": "Iniziativa",
-  "pluralDisplayName": "Iniziative"
-}
