@@ -75,6 +75,15 @@ class Searchbox extends Component<Props> {
 
     appFetch = (place) => {
         const context = this;
+        var requestOptions = {
+            headers: {
+                'Content-Type': 'application/json'
+                // 'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            method: 'GET',
+            referrerPolicy: 'no-referrer', // no-referrer, *no-referrer-when-downgrade, origin, origin-when-cross-origin, same-origin, strict-origin, strict-origin-when-cross-origin, unsafe-url
+            redirect: 'follow'
+        };
         const fetchPlaces = async () => {     
             let latitude;
             let longitude;
@@ -87,7 +96,7 @@ class Searchbox extends Component<Props> {
                 userLocation.lat = latitude; userLocation.lng = longitude;
             }          
             if (latitude && longitude) {
-                await fetch('https://liveapi.yext.com/v2/accounts/me/entities/geosearch?api_key=41c4aa25e98644dc44dc57714b21d37f&v=20221031&savedFilterIds=1234994255&location=' + latitude + ', ' + longitude + '&radius=100')
+                await fetch('https://liveapi.yext.com/v2/accounts/me/entities/geosearch?api_key=41c4aa25e98644dc44dc57714b21d37f&v=20221031&savedFilterIds=1234994255&location=' + latitude + ', ' + longitude + '&radius=100', requestOptions)
                     .then((response) => response.json())
                     .then((data) => {
                         this.setState({ places: (data.response.entities) })
