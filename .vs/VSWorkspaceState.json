@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\node_modules",
-    "\\node_modules\\@yext",
-    "\\node_modules\\@yext\\pages",
-    "\\node_modules\\@yext\\pages\\dist",
-    "\\node_modules\\@yext\\pages\\dist\\preview",
-    "\\node_modules\\@yext\\pages\\dist\\types",
-    "\\node_modules\\@yext\\pages\\dist\\util",
-    "\\node_modules\\prettier",
-    "\\node_modules\\pretty-format"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\components",
+    "\\src\\templates",
+    "\\src\\types"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\src\\components\\SearchBox.tsx",
   "PreviewInSolutionExplorer": false
 }

@@ -166,8 +166,8 @@ class Searchbox extends Component<Props> {
                                                 <span className="c-address-street-2">{struttura.address.line2}</span>
                                             </div>
                                             <div className="c-AddressRow">
-                                                <span className="c-address-postal-code" itemProp="postalCode">{struttura.address.postalCode}</span>
-                                                <span className="c-address-city">{struttura.address.city}</span>
+                                                <span className="c-address-postal-code" itemProp="postalCode">{struttura.address.postalCode} </span>
+                                                <span className="c-address-city">{struttura.address.city} </span>
                                                 <span className="c-address-state" itemProp="addressRegion">{struttura.address.region}</span>
                                             </div>                                           
                                         </div>
