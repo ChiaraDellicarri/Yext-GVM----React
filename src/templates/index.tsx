@@ -11,7 +11,7 @@ import {
     GetHeadConfig,
     HeadConfig,
 } from "@yext/pages";
-/*import Searchbox from "../components/SearchBox";*/
+import Searchbox from "../components/SearchBox";
 
 export const config: TemplateConfig = {
     stream: {
@@ -137,7 +137,7 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
                     </div>
                     <div className="w-full">
                             {sortedStrutture}
-                          {/*  <Searchbox defaultLocations={strutture}/>    */}  
+                            <Searchbox defaultLocations={strutture}/>      
                     </div>
                 </div>
             </div>         
