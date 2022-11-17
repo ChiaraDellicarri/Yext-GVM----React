@@ -1,7 +1,7 @@
 import React from "react";
 import HeaderIndex, { Link } from "../components/header-index";
-import "../index.css";
-import "../types/index.ts";
+import "../index.css";/*
+import "../types/index.ts";*/
 import {
     Template,
     GetPath,
