@@ -1,10 +1,7 @@
-const { ComponentsContentPath } = require("@yext/search-ui-react");
-
 module.exports = {
   content: [
     "./src/**/*.{html,js,jsx,ts,tsx}",  
-    "./lib/**/*.{js,jsx}",
-    ComponentsContentPath,
+    "./lib/**/*.{js,jsx}"
   ],
    theme: {
     screens: {
@@ -66,9 +63,5 @@ module.exports = {
     },
   },
 
-  plugins: [
-  require("@tailwindcss/forms")({
-      strategy: "class",
-    }),
-],
+  plugins: [],
 };
