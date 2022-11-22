@@ -12,6 +12,7 @@ import {
     HeadConfig,
 } from "@yext/pages";
 import Searchbox from "../components/SearchBox";
+import Footer from "../components/footer";
 
 export const config: TemplateConfig = {
     stream: {
@@ -73,8 +74,16 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
         dm_directoryChildren
     } = document;
    
-
+    const regioni: any = [];
     const strutture: any = [];
+
+    const sortedRegioni = dm_directoryChildren.map((regione: any) => {
+        regioni.push(regione);
+        regioni.sort(function (a: any, b: any) {
+            var a = a.name, b = b.name;
+            return (a < b) ? -1 : (a > b) ? 1 : 0;
+        })
+    });
 
     const sortedStrutture = dm_directoryChildren.map((entity: any) => {
         { entity.dm_directoryChildren.map((struttura: any) => strutture.push(struttura)) }
@@ -138,6 +147,25 @@ const Index: Template<TemplateRenderProps> = ({ relativePrefixToRoot, path, docu
                     <div className="w-full">
                             {sortedStrutture}
                             <Searchbox defaultLocations={strutture}/>      
+                    </div>
+                    <div className="section" data-ya-scope="SectionListRegione">
+                        <div className="container">
+                            <div className="lista_regioni">
+                                <h5 className="title_nearby">Ospedali GVM per Regione</h5>
+                                <ul className="regioni-list">
+                                {regioni.map(r => {
+                                    return (
+                                        <li data-ya-track={"CTAListRegione_" + r.name}><a href={r.slug} title={"Ospedali GVM in " + r.name}>{r.name}</a></li>
+                                        )
+                                }) }
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="w-full bg-gray-100">
+                        <div className="">
+                            <Footer />
+                        </div>
                     </div>
                 </div>
             </div>         

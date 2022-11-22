@@ -1,4 +1,5 @@
 import * as React from "react";
+import Aperto from "./IsOpen";
 /*
 export type Address = {
   line1: string;
@@ -28,11 +29,12 @@ type Banner = {
     tel?: string;
     prenota?: string;
     immagine?: string;
+    hours?: any;
 };
 
 
 const Banner = (props: Banner) => {
-    const { name, info, tel, prenota, immagine } = props;
+    const { name, info, tel, prenota, immagine, hours } = props;
 
   return (
     <>
@@ -43,7 +45,7 @@ const Banner = (props: Banner) => {
                           <div className="big_title">
                               {name}
                           </div>
-                          <div> <div id="openorclosed" className="open">Aperto</div>{/*------------DA SISTEMARE---------------*/}
+                          <div> <div id="openorclosed" className="open">{hours && <Aperto hours={hours} />}</div>{/*------------DA SISTEMARE---------------*/}
 
                           </div>
                       </div>

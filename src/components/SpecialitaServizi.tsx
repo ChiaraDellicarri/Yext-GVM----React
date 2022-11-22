@@ -29,7 +29,7 @@ const SpecialitaServizi = (props: SpecialitaServizi) => {
 					<div className="specialita_container_main flex justify-center items-stretch flex-wrap">
 						<div className="intro">
 							<h2 className="titolo_descrizione_lunga">
-								Specialità e Servizi:
+								Specialità e Servizi:{" "}
 								<span className="text-regular">
 									{c_name ? c_name : name}
 								</span>

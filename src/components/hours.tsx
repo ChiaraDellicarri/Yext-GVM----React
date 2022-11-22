@@ -1,3 +1,4 @@
+import { min } from "lodash";
 import * as React from "react";
 
 type Hours = {
@@ -26,7 +27,7 @@ type OpenIntervals = {
 };
 
 const todayIndex = new Date().getDay() == 0 ? 6 : new Date().getDay() -1;
-
+console.log(todayIndex);
 /**
  * Dynamically creates a sort order based on today's day.
  */
@@ -72,6 +73,7 @@ const defaultSorter: { [key: string]: number } = {
   sunday: 6,
 };
 
+//new
 const giorniTradotti: { [key: string]: string } = {
     monday: 'Lunedì',
     tuesday: 'Martedì',
@@ -81,6 +83,7 @@ const giorniTradotti: { [key: string]: string } = {
     saturday: 'Sabato',
     sunday: 'Domenica',
 }
+//endnew
 
 function sortByDay(week: Week): Week {
     const tmp = [];
@@ -106,25 +109,34 @@ const renderHours = (week: Week) => {
         dayDom.push(<DayRow key={k} dayName={k} giornoTradotto={giorniTradotti[k]} day={v} isToday={isDayToday(k)} />);        
     }
 
-  return <div>{dayDom}</div>;
+    return <div>{dayDom}</div>;
 };
 
 function isDayToday(dayName: string) {
     return defaultSorter[dayName] === todayIndex;
-   /* return defaultSorter[dayName];*/
 }
 
 function convertTo12HourFormat(time: string, /*includeMeridiem: boolean*/): string {
+
   const timeParts = time.split(":");
   let hour = Number(timeParts[0]);
-  const minutesString = timeParts[1];
+  let minutesString = Number(timeParts[1]);
   /* const meridiem = hour < 12 || hour === 24 ? "AM" : "PM"; // Set AM/PM*/
   /* hour = hour % 12 || 12; // Adjust hours*/
-  hour = hour % 24 || 24; // Adjust hours
+    hour = hour % 24 || 24; // Adjust hours
+    if (hour == 24) {
+       /* console.log("24");
+        console.log(hour);*/
+        return (
+            "00:" + (minutesString == 0 ? "00" : minutesString.toString())
+        )
+    } else {
+        return (
+            hour.toString() + ":" + (minutesString == 0 ? "00" : minutesString.toString()) /*+ (includeMeridiem ? meridiem : "")*/
+        )
+    }
 
-  return (
-      hour.toString() + ":" + minutesString /*+ (includeMeridiem ? meridiem : "")*/
-  );
+    
 }
 
 type DayRow = {
@@ -134,20 +146,57 @@ type DayRow = {
   isToday?: boolean;
 };
 
+const is24h = (props) => {
+    const orario1 = (props.openIntervals[0].start).split(":");
+    const orario2 = (props.openIntervals[0].end).split(":");
+    let oreStart = Number(orario1[0]);
+    let minStart = Number(orario1[1]);
+    let oreEnd = Number(orario2[0]);
+    let minEnd = Number(orario2[1]);
+    const deltaTime1 = oreEnd - oreStart;
+    const deltaTime2 = minEnd - minStart;
+    if (deltaTime1 == 23 && deltaTime2 == 59) {
+        return (
+            <div className="lg:col-span-3">Aperto 24h</div>
+        )
+    } else {
+        return (
+            <div className="lg:col-span-3">
+                {convertTo12HourFormat(props.openIntervals[0].start)} -{" "}
+                {convertTo12HourFormat(props.openIntervals[0].end)}
+            </div>
+        )
+    }
+       
+    };
+
 const DayRow = (props: DayRow) => {
     const { dayName, day, isToday, giornoTradotto } = props;
+/*    const orario1 = day.openIntervals[0].start.split(":");
+    console.log(orario1);*/
+    /*const orario2 = day.openIntervals[0].end.split(":");
+    let oreStart = Number(orario1[0]);
+    let minStart = Number(orario1[1]);
+    let oreEnd = Number(orario2[0]);
+    let minEnd = Number(orario2[1]);
+    const deltaTime1 = oreEnd - oreStart;
+    const deltaTime2 = minEnd - minStart;*/
+    
+   
 
   return (
       <div className={`grid grid-cols-2 lg:grid-cols-5 day-list-inner ${isToday ? "font-bold" : ""}`}>
       <div className="lg:col-span-2">
         {giornoTradotto}
-      </div>
-      {!day.isClosed && (
+          </div>
+    
+    {/*  {!day.isClosed && (
          <div className="lg:col-span-3">
             {convertTo12HourFormat(day.openIntervals[0].start)} -{" "}
             {convertTo12HourFormat(day.openIntervals[0].end)}
         </div>
-      )}
+        )}*/}
+      {!day.isClosed && ( is24h(day) )}
       {day.isClosed && (
         <div className="lg:col-span-3">
          Chiuso

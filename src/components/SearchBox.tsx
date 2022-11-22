@@ -3,7 +3,7 @@ import Marker from './components/Marker';
 // examples:
 import GoogleMap from './components/GoogleMap';
 import Autocomplete from './components/AutoComplete';
-
+import Hours from './hours-index';
 const defaultProps = {
     center: { lat: 42.159872, lng: 13.405838 },
 }
@@ -126,6 +126,7 @@ class Searchbox extends Component<Props> {
             places, mapApiLoaded, mapInstance, mapApi, hoverIndex, isHovering
         } = this.state;
 
+       
         return (
             <div className="full-width-locator lista_struttura_mappa">
                 <div className="panel px-3">
@@ -160,11 +161,10 @@ class Searchbox extends Component<Props> {
                                         <div className="lp-param-results lp-subparam-cardTitle lp-subparam-cardTitleLinkUrl">
                                             <div className="name" itemProp="name">
                                                 <a key="uRL" href={struttura.slug}>
-                                                    <p>{struttura.c_nomeStruttura}</p>
-                                                </a>
+                                                    <p>{struttura.c_nomeStruttura}</p>                                             </a>
                                             </div>
                                         </div>
-                                        <div className="lp-param-results lp-subparam-hours"><div className="open-now-string"><strong>Aperto</strong> &middot; Chiude alle 8:00 PM</div></div>
+                                        <div className="lp-param-results lp-subparam-hours">{struttura.hours && <Hours hours={struttura.hours} />}</div>
                                        
 
                                         <div itemProp="address">
@@ -217,7 +217,11 @@ class Searchbox extends Component<Props> {
                                 <Marker
                                     key={index}
                                     text={place.name}
+                                    href={place.slug}
                                     ordine={index}
+                                    isHover={hoverIndex}
+                                    onMouseOver={() => { this.setState({ hoverIndex: index, isHovering: true }) } }
+                                    onMouseOut={() => { this.setState({ hoverIndex: null, isHovering: false }) } }
                                     lat={place.geocodedCoordinate.latitude}
                                     lng={place.geocodedCoordinate.longitude}
                                 />
