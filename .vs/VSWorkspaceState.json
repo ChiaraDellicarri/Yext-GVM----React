@@ -4,14 +4,8 @@
     "\\src",
     "\\src\\components",
     "\\src\\components\\components",
-    "\\~",
-    "\\~\\cli-guide",
-    "\\~\\cli-guide\\default",
-    "\\~\\cli-guide\\default\\km",
-    "\\~\\cli-guide\\dm",
-    "\\~\\cli-guide\\dm\\km",
-    "\\~\\cli-guide\\r"
+    "\\src\\templates"
   ],
-  "SelectedNode": "\\src\\components\\components\\AutoComplete.tsx",
+  "SelectedNode": "\\src\\components\\SearchBox.tsx",
   "PreviewInSolutionExplorer": false
 }

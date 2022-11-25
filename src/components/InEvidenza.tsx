@@ -19,7 +19,7 @@ const InEvidenza = (props: InEvidenza) => {
                             return (
                                 <>
                                 <div className={"box_inevidenza box_inevidenza" + index}>
-                                        <div className="bg_box" style={{background: `url(${art.immagine.url})`}}></div>
+                                        <div className="bg_box {art.classi && art.classi}" style={{background: `url(${art.immagine.url})`}}></div>
                                 <div className="content">
                                             <h3 className="title_inevidenza">{art.titolo}</h3>
                                             <div className="description_inevidenza">{ art.sommario }</div>
